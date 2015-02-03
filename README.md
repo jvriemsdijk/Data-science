@@ -4,5 +4,5 @@
 > ###### Thomas Parmentier (10430121)
 
 ### Week 1
-> #######Homework 0 // completed
-> #######Markdown exercise // to do
+- Homework 0 // completed
+- Markdown exercise // to do
