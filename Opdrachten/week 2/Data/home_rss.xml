@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>VK:Home</title>
+    <link>http://www.volkskrant.nl</link>
+    <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
+    <language>nl-NL</language>
+    <copyright>de Persgroep Publishing Nederland NV</copyright>
+    <pubDate>Wed, 11 Feb 2015 14:06:38 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2015 14:06:38 GMT</lastBuildDate>
+    <image>
+      <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
+      <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
+      <link>http://www.volkskrant.nl</link>
+    </image>
+  </channel>
+</rss>
+
