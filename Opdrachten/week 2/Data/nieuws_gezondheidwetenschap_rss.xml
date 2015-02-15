@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 19:52:23 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 19:52:23 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 21:23:36 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 21:23:36 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
@@ -57,6 +57,16 @@
       </media:content>
     </item>
     <item>
+      <title>Pompgemak</title>
+      <link>http://www.volkskrant.nl/wetenschap/pompgemak~a3850994/</link>
+      <description>Denkfouten in hedendaags ontwerp gefileerd door productgebruikonderzoeker (en cabaretier) Jasper van Kuijk. Deze week: tanken.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/pompgemak~a3850994/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/11/0/050e3d50a7145a1df92ad50c768f9096/2775720/399x289/2775720.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/11/0/050e3d50a7145a1df92ad50c768f9096/2775720/399x289/2775720.jpeg" />
+      </media:content>
+    </item>
+    <item>
       <title>De buizerd is lomp en lui, maar efficiënt</title>
       <link>http://www.volkskrant.nl/dossier-beestje-van-de-week/de-buizerd-is-lomp-en-lui-maar-efficient~a3850807/</link>
       <description>Als het lui kan, doet de buizerd het lui. En daarom is hij zo'n succesvolle roofvogel, zegt Valentijn van Bergen, die een vertrouwd gezicht is geworden voor de buizerds in Zuidoost-Friesland.</description>
@@ -68,16 +78,6 @@
       </media:content>
     </item>
     <item>
-      <title>Pompgemak</title>
-      <link>http://www.volkskrant.nl/wetenschap/pompgemak~a3850994/</link>
-      <description>Denkfouten in hedendaags ontwerp gefileerd door productgebruikonderzoeker (en cabaretier) Jasper van Kuijk. Deze week: tanken.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/pompgemak~a3850994/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/11/0/050e3d50a7145a1df92ad50c768f9096/2775720/399x289/2775720.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/11/0/050e3d50a7145a1df92ad50c768f9096/2775720/399x289/2775720.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Beeld van de week</title>
       <link>http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</link>
       <description>Een bijzonder plaatje van een zebravis: de roze delen geven actieve neuronen in het zenuwstelsel van de vis aan. Het is voor het eerst dat wetenschappers een techniek vonden om in een momentopname grote groepen actieve neuronen te laten zien: een eiwit dat verschiet van kleur als een neuron actief wordt. Zo konden de onderzoekers de breinactiviteit van levende zebra-visjes onder verschillende omstandigheden vergelijken. Dat kan helpen om complex gedrag te begrijpen, schrijven ze in Science.</description>
@@ -85,6 +85,38 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Perovskiet: mogelijk een nieuw wondermateriaal voor zonnecellen</title>
+      <link>http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</link>
+      <description>Een in 1839 al ontdekt kristal vormt, naar nu blijkt, een uitstekende en spotgoedkope basis voor zonnecellen. Internationaal een hype: het regent wetenschappelijke artikelen erover. Nu zijn Nederlandse labs er ook opgedoken.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Martijn van Calmthout</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Chemopatiënten kweken stiekem cannabis</title>
+      <link>http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</link>
+      <description>Duizenden ernstig zieke Nederlanders kunnen bij de apotheek 'staatswiet' krijgen. Die werkt bij veel patiënten niet goed. Sommigen telen daarom zelf wiet. Ook Rudolf Hillebrand. Tot de politie kwam.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Ellen de Visser</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Australische zoogdieren sterven uit, meer zelfmoorden na crisis</title>
+      <link>http://www.volkskrant.nl/wetenschap/australische-zoogdieren-sterven-uit-meer-zelfmoorden-na-crisis~a3850939/</link>
+      <description>Australische zoogdieren sterven sneller uit dan die in de rest van de wereld. Dieren die in de 18de eeuw door Europeanen in Australië werden geïntroduceerd, zoals de kat en de vos, zijn daar waarschijnlijk debet aan. Vossen en verwilderde katten jagen op inheemse dieren als de buidelmarter (foto). Opvallend is dat de uitsterfgolf vooral dunbevolkte gebieden treft. Dat blijkt uit een analyse van Australische wetenschappers, deze week in het Amerikaanse tijdschrift PNAS. Australische zoogdieren hebben dus te maken met andere bedreigingen dan dieren in andere werelddelen, concluderen ze.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/australische-zoogdieren-sterven-uit-meer-zelfmoorden-na-crisis~a3850939/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/11/2/6a7dc1df7374943d06646cf2dbb573dd/2775482/399x289/2775482.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/11/2/6a7dc1df7374943d06646cf2dbb573dd/2775482/399x289/2775482.jpeg" />
       </media:content>
     </item>
     <item>
@@ -106,38 +138,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Chemopatiënten kweken stiekem cannabis</title>
-      <link>http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</link>
-      <description>Duizenden ernstig zieke Nederlanders kunnen bij de apotheek 'staatswiet' krijgen. Die werkt bij veel patiënten niet goed. Sommigen telen daarom zelf wiet. Ook Rudolf Hillebrand. Tot de politie kwam.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Ellen de Visser</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Perovskiet: mogelijk een nieuw wondermateriaal voor zonnecellen</title>
-      <link>http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</link>
-      <description>Een in 1839 al ontdekt kristal vormt, naar nu blijkt, een uitstekende en spotgoedkope basis voor zonnecellen. Internationaal een hype: het regent wetenschappelijke artikelen erover. Nu zijn Nederlandse labs er ook opgedoken.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Martijn van Calmthout</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Australische zoogdieren sterven uit, meer zelfmoorden na crisis</title>
-      <link>http://www.volkskrant.nl/wetenschap/australische-zoogdieren-sterven-uit-meer-zelfmoorden-na-crisis~a3850939/</link>
-      <description>Australische zoogdieren sterven sneller uit dan die in de rest van de wereld. Dieren die in de 18de eeuw door Europeanen in Australië werden geïntroduceerd, zoals de kat en de vos, zijn daar waarschijnlijk debet aan. Vossen en verwilderde katten jagen op inheemse dieren als de buidelmarter (foto). Opvallend is dat de uitsterfgolf vooral dunbevolkte gebieden treft. Dat blijkt uit een analyse van Australische wetenschappers, deze week in het Amerikaanse tijdschrift PNAS. Australische zoogdieren hebben dus te maken met andere bedreigingen dan dieren in andere werelddelen, concluderen ze.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/australische-zoogdieren-sterven-uit-meer-zelfmoorden-na-crisis~a3850939/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/11/2/6a7dc1df7374943d06646cf2dbb573dd/2775482/399x289/2775482.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/11/2/6a7dc1df7374943d06646cf2dbb573dd/2775482/399x289/2775482.jpeg" />
       </media:content>
     </item>
     <item>

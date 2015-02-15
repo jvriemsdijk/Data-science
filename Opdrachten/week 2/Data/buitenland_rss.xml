@@ -6,13 +6,23 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 19:53:01 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 19:53:01 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 21:23:55 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 21:23:55 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>'Video IS toont onthoofding 21 koptische christenen'</title>
+      <link>http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</link>
+      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd.</description>
+      <pubDate>Sun, 15 Feb 2015 19:53:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</guid>
+      <media:content type="image/png" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png" />
+      </media:content>
+    </item>
     <item>
       <title>Honderden Joodse graven vernield in Frankrijk</title>
       <link>http://www.volkskrant.nl/buitenland/honderden-joodse-graven-vernield-in-frankrijk~a3852000/</link>
@@ -401,17 +411,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/leven/feministische-pornomaakster-bekritiseert-50-shades~a3851014/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/7/11/a2dbb4a5a1463743efe5d21cb29b3dc1/2775971/399x289/2775971.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/7/11/a2dbb4a5a1463743efe5d21cb29b3dc1/2775971/399x289/2775971.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Nederland moet Burundi-steun stoppen na executies'</title>
-      <link>http://www.volkskrant.nl/buitenland/nederland-moet-burundi-steun-stoppen-na-executies~a3851174/</link>
-      <description>De sinds jaren door Nederlanders getrainde leger- en politiemacht in Burundi heeft zich schuldig gemaakt aan grove schendingen van de mensenrechten. Volgens de organisatie Human Rights Watch (HRW), die ten minste 47 standrechtelijke executies rond de jaarwisseling registreerde, moet Nederland de steun opschorten.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Theo Koelé</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/nederland-moet-burundi-steun-stoppen-na-executies~a3851174/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/16/13/686f73db47c8afbb058c26b0e8d9bba0/2776558/399x289/2776558.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/16/13/686f73db47c8afbb058c26b0e8d9bba0/2776558/399x289/2776558.jpeg" />
       </media:content>
     </item>
   </channel>

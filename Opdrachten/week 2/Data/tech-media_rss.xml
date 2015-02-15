@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 19:52:21 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 19:52:21 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 21:23:28 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 21:23:28 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
@@ -426,14 +426,13 @@
       </media:content>
     </item>
     <item>
-      <title>Weten hoe veel je in bed woelt</title>
-      <link>http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</link>
-      <description>De stappenteller van Fitbit meet nauwkeurig je nachtrust en ongeveer je beweging.</description>
+      <title>Programmeren kun je (echt heel jong al) leren</title>
+      <link>http://www.volkskrant.nl/binnenland/programmeren-kun-je-echt-heel-jong-al-leren~a3846188/</link>
+      <description>Bill Gates en Mark Zuckerberg begonnen ook jong, dus leren meer en meer basisscholen hun leerlingen programmeren. Hard nodig, zegt de ict-branche. Weer een technologiehype, zegt de onderwijspsycholoog.</description>
       <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Bard van de Weijer</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg" />
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/programmeren-kun-je-echt-heel-jong-al-leren~a3846188/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/1/14/7de825550afb133318c886cc286e07b2/2760104/399x289/2760104.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/1/14/7de825550afb133318c886cc286e07b2/2760104/399x289/2760104.jpeg" />
       </media:content>
     </item>
   </channel>

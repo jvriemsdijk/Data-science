@@ -6,13 +6,34 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 19:52:17 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 19:52:17 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 21:23:55 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 21:23:55 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>De man die de wereld aan de Nutella bracht</title>
+      <link>http://www.volkskrant.nl/economie/de-man-die-de-wereld-aan-de-nutella-bracht~a3852007/</link>
+      <description>Het is surrogaatchocola, maar doe het in een luxe ogende pot en de hele wereld eet het. 'Mister Nutella' werd er de rijkste Italiaan mee.</description>
+      <pubDate>Sun, 15 Feb 2015 21:10:00 GMT</pubDate>
+      <author>Peter de Waard</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/de-man-die-de-wereld-aan-de-nutella-bracht~a3852007/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/0/7/42f233dc6a410b6c341a522495df5697/2779432/399x289/2779432.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/0/7/42f233dc6a410b6c341a522495df5697/2779432/399x289/2779432.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Video IS toont onthoofding 21 koptische christenen'</title>
+      <link>http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</link>
+      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd.</description>
+      <pubDate>Sun, 15 Feb 2015 19:53:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</guid>
+      <media:content type="image/png" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png" />
+      </media:content>
+    </item>
     <item>
       <title>Honderden Joodse graven vernield in Frankrijk</title>
       <link>http://www.volkskrant.nl/buitenland/honderden-joodse-graven-vernield-in-frankrijk~a3852000/</link>
@@ -394,26 +415,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/sport/rentree-de-jong-helpt-ac-milan-niet~a3851903/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/2/11/a196294576477b761406e53f87eb7652/2778686/399x289/2778686.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/2/11/a196294576477b761406e53f87eb7652/2778686/399x289/2778686.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Rojer en Tecau pakken dubbeltitel in Rotterdam</title>
-      <link>http://www.volkskrant.nl/sport/rojer-en-tecau-pakken-dubbeltitel-in-rotterdam~a3851902/</link>
-      <description>Jean-Julien Rojer heeft met zijn partner Horia Tecau de titel gegrepen in het dubbelspel bij het het ABN AMRO World Tennis Tournament in Rotterdam. Het Nederlands/Roemeense koppel was vandaag in de finale te sterk voor de Brit Jamie Murray en de Australiër John Peers. Een supertiebreak moest de beslissing brengen. Daarin namen Rojer en Tecau rap een voorsprong, die zij niet meer uit handen gaven: 3-6 6-3 10-8.</description>
-      <pubDate>Sun, 15 Feb 2015 13:41:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/sport/rojer-en-tecau-pakken-dubbeltitel-in-rotterdam~a3851902/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/15/7/ecb64e8bed76f11cbbdcee7702fea38b/2778682/399x289/2778682.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/15/7/ecb64e8bed76f11cbbdcee7702fea38b/2778682/399x289/2778682.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Weer geen goud voor Wüst, Bowe wint 1500 meter</title>
-      <link>http://www.volkskrant.nl/sport/weer-geen-goud-voor-wust-bowe-wint-1500-meter~a3851900/</link>
-      <description>Schaatsster Ireen Wüst heeft vandaag bij de WK afstanden in Heerenveen op de 1500 meter genoegen moeten nemen met de zilveren medaille. De onttroonde titelverdedigster reed in Thialf een tijd van 1.54,76.</description>
-      <pubDate>Sun, 15 Feb 2015 13:37:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/sport/weer-geen-goud-voor-wust-bowe-wint-1500-meter~a3851900/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/6/c1df9bc23305cfac5a7266b4fc803f86/2778666/399x289/2778666.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/6/c1df9bc23305cfac5a7266b4fc803f86/2778666/399x289/2778666.jpeg" />
       </media:content>
     </item>
   </channel>
