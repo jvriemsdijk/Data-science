@@ -1,437 +1,441 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>VK:Tech</title>
-    <link>http://www.volkskrant.nl</link>
-    <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
-    <language>nl-NL</language>
-    <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 11 Feb 2015 14:07:10 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2015 14:07:10 GMT</lastBuildDate>
-    <image>
-      <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
-      <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
-      <link>http://www.volkskrant.nl</link>
-    </image>
-    <item>
-      <title>Manning vanuit gevangenis nieuwe columnist Guardian</title>
-      <link>http://www.volkskrant.nl/dossier-wikileaks/manning-vanuit-gevangenis-nieuwe-columnist-guardian~a3849172/</link>
-      <description>Chelsea Manning, klokkenluider in de WikiLeaks-zaak, gaat vanuit de gevangenis columns schrijven voor The Guardian. Dit maakte de hoofdredacteur van de Britse krant Katharine Viner gisteravond bekend op Twitter. Transvrouw Manning, die bekend werd als soldaat Bradley Manning, gaat schrijven over oorlog, gender en informatievrijheid.</description>
-      <pubDate>Wed, 11 Feb 2015 12:00:00 GMT</pubDate>
-      <author>Just Fontein</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-wikileaks/manning-vanuit-gevangenis-nieuwe-columnist-guardian~a3849172/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/7/8e900593a4d66b2dcd3630a8704354f5/2770102/399x289/2770102.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/7/8e900593a4d66b2dcd3630a8704354f5/2770102/399x289/2770102.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Rabobank lanceert betalen met smartphone</title>
-      <link>http://www.volkskrant.nl/binnenland/rabobank-lanceert-betalen-met-smartphone~a3849228/</link>
-      <description>Klanten van Rabobank kunnen vanaf vandaag betalen met hun telefoon aan de kassa. Rabobank is de eerste Nederlandse grootbank die dit mogelijk maakt.</description>
-      <pubDate>Wed, 11 Feb 2015 11:03:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rabobank-lanceert-betalen-met-smartphone~a3849228/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/5/2/a56a91d115bc357089b3618dce397132/2770172/399x289/2770172.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/5/2/a56a91d115bc357089b3618dce397132/2770172/399x289/2770172.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Hackers haalden sites Rijksoverheid uit de lucht</title>
-      <link>http://www.volkskrant.nl/binnenland/hackers-haalden-sites-rijksoverheid-uit-de-lucht~a3849132/</link>
-      <description>De storing die gisteren onder meer de website van de Rijksoverheid blokkeerde is veroorzaakt door een cyberaanval. Dat meldt het ministerie van Algemene Zaken.</description>
-      <pubDate>Wed, 11 Feb 2015 08:53:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/hackers-haalden-sites-rijksoverheid-uit-de-lucht~a3849132/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/12/5/ac2d4152185ed8173a24db69eb92d950/2769890/399x289/2769890.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/12/5/ac2d4152185ed8173a24db69eb92d950/2769890/399x289/2769890.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Meer spionage mogelijk voor inlichtingendiensten</title>
-      <link>http://www.volkskrant.nl/binnenland/meer-spionage-mogelijk-voor-inlichtingendiensten~a3848756/</link>
-      <description>De inlichtingendiensten mogen ook informatie via de kabel aftappen van een Kamermeerderheid, maar onder strikte voorwaarden en toezicht.</description>
-      <pubDate>Wed, 11 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Remco Meijer</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/meer-spionage-mogelijk-voor-inlichtingendiensten~a3848756/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/7/8522de4ba7a4ada05f9f7da44f73cdbb/2768887/399x289/2768887.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/7/8522de4ba7a4ada05f9f7da44f73cdbb/2768887/399x289/2768887.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Apps zijn net zo slordig als stappentellers</title>
-      <link>http://www.volkskrant.nl/tech/apps-zijn-net-zo-slordig-als-stappentellers~a3848710/</link>
-      <description>Wie overweegt een moderne stappenteller aan te schaffen, kan daarvoor evengoed een smartphone-app gebruiken. Telefoons registreren het aantal voetstappen net zo goed als de slimme armbanden van Fitbit, Jawbone of Nike. Namelijk: net niet nauwkeurig. Dit blijkt uit dinsdag gepubliceerd onderzoek in The Journal of the American Medical Association.</description>
-      <pubDate>Tue, 10 Feb 2015 20:01:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/apps-zijn-net-zo-slordig-als-stappentellers~a3848710/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/8/4/3a2dfc9d1a155a065d4cfb5824ae5abf/2768764/399x289/2768764.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/8/4/3a2dfc9d1a155a065d4cfb5824ae5abf/2768764/399x289/2768764.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Kabinet mag door met plan voor aftappen kabel, maar wel zorgvuldig</title>
-      <link>http://www.volkskrant.nl/dossier-kabinet-rutte-ii/kabinet-mag-door-met-plan-voor-aftappen-kabel-maar-wel-zorgvuldig~a3848693/</link>
-      <description>Het kabinet kan verder met zijn plan om de inlichtingendiensten AIVD en MIVD ruwe communicatiegegevens van burgers op de kabel te laten onderscheppen. Nu mogen die diensten dat nog niet, maar het kabinet vindt het hard nodig om dit wettelijk mogelijk te maken, omdat de meeste communicatie tegenwoordig via de kabel verloopt.</description>
-      <pubDate>Tue, 10 Feb 2015 18:58:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-kabinet-rutte-ii/kabinet-mag-door-met-plan-voor-aftappen-kabel-maar-wel-zorgvuldig~a3848693/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/14/6/2604b7019a1c1263dc5d9fa20ac519ff/2768736/399x289/2768736.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/14/6/2604b7019a1c1263dc5d9fa20ac519ff/2768736/399x289/2768736.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Senaat wil Opstelten horen over privacy'</title>
-      <link>http://www.volkskrant.nl/dossier-kabinet-rutte-ii/senaat-wil-opstelten-horen-over-privacy~a3848662/</link>
-      <description>Minister Ivo Opstelten (Veiligheid en Justitie) moet in de Senaat uit komen leggen hoe hij omgaat met een uitspraak van het Europese Hof van Justitie over de privacy. Dat heeft senator Tineke Strik vanavond gezegd.</description>
-      <pubDate>Tue, 10 Feb 2015 18:17:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-kabinet-rutte-ii/senaat-wil-opstelten-horen-over-privacy~a3848662/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/13/11aca0c3c25fb11236d9983a06fdfe5b/2768653/399x289/2768653.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/13/11aca0c3c25fb11236d9983a06fdfe5b/2768653/399x289/2768653.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Heeft Samsung de Big Brother-tv gemaakt?</title>
-      <link>http://www.volkskrant.nl/tech/heeft-samsung-de-big-brother-tv-gemaakt~a3848620/</link>
-      <description>Je moet het Samsung nageven: eindelijk een bedrijf met duidelijke gebruiksvoorwaarden. Het bedrijf maakt slimme televisies, die kijkers met hun stem kunnen bedienen. En wat staat daarover in het privacy-beleid? 'Als de door u gesproken woorden ook persoonlijke gegevens of gevoelige informatie bevatten, worden deze gegevens vastgelegd en naar een derde verzonden.' Ofwel: pas op met wat je zegt, want je weet nooit wie er meeluistert.</description>
-      <pubDate>Tue, 10 Feb 2015 16:52:00 GMT</pubDate>
-      <author>Michael Persson</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/heeft-samsung-de-big-brother-tv-gemaakt~a3848620/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/6/9/bfb78c288672ce2179cabd5e1aa5d69e/2768439/399x289/2768439.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/6/9/bfb78c288672ce2179cabd5e1aa5d69e/2768439/399x289/2768439.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>#CyberCaliphate hackt Newsweek en bedreigt Obama's</title>
-      <link>http://www.volkskrant.nl/tech/cybercaliphate-hackt-newsweek-en-bedreigt-obamas~a3848582/</link>
-      <description>Het Twitter-account van het Amerikaanse tijdschrift Newsweek is kort gehackt door de groep die zichzelf Cyber Caliphate noemt. Gedurende de hack heeft de organisatie, die sympathiseert met IS, dreigementen geuit aan de familie Obama en gevoelige informatie verspreid onder de ruim 2,5 miljoen volgers van Newsweek.</description>
-      <pubDate>Tue, 10 Feb 2015 16:05:00 GMT</pubDate>
-      <author>Pieter Hotse Smit</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/cybercaliphate-hackt-newsweek-en-bedreigt-obamas~a3848582/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/12/12/852a517ce33b1d51d4a8f95b425927ed/2768292/399x289/2768292.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/12/12/852a517ce33b1d51d4a8f95b425927ed/2768292/399x289/2768292.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Websites Rijksoverheid niet bereikbaar</title>
-      <link>http://www.volkskrant.nl/media/websites-rijksoverheid-niet-bereikbaar~a3848461/</link>
-      <description>Door een storing bij netwerk- en hostingprovider Prolocation zijn onder andere de websites van de Rijksoverheid, Telfort en GeenStijl offline, zo bevestigt een medewerker van Prolocation tegenover Tweakers.</description>
-      <pubDate>Tue, 10 Feb 2015 12:37:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/media/websites-rijksoverheid-niet-bereikbaar~a3848461/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/3/71a9d26df27aff55c61975a8fab7033f/2767758/399x289/2767758.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/3/71a9d26df27aff55c61975a8fab7033f/2767758/399x289/2767758.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Grootste overname ooit voor Canon</title>
-      <link>http://www.volkskrant.nl/economie/grootste-overname-ooit-voor-canon~a3848344/</link>
-      <description>Canon neemt het Zweedse Axis Communications over. Dat werd vandaag bekendgemaakt. Het is de grootste overname ooit voor de Japanse cameraproducent.</description>
-      <pubDate>Tue, 10 Feb 2015 08:58:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/grootste-overname-ooit-voor-canon~a3848344/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/5/9/0f2fbc956a279ba0f12f612a8d658b51/2767299/399x289/2767299.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/5/9/0f2fbc956a279ba0f12f612a8d658b51/2767299/399x289/2767299.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Happy ship' zonder deining is wereldprimeur</title>
-      <link>http://www.volkskrant.nl/tech/happy-ship-zonder-deining-is-wereldprimeur~a3848018/</link>
-      <description>Hoe hoog de golven ook zijn, de loopbrug van het nieuwe 'happy schip' van de NAM blijft altijd horizontaal. Dat maakt gaswinning op kleine velden in de Noordzee makkelijker.</description>
-      <pubDate>Tue, 10 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Peter van Ammelrooy</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/happy-ship-zonder-deining-is-wereldprimeur~a3848018/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/3/7bebff378c5fff0cfc881daff6b92e6d/2766693/399x289/2766693.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/3/7bebff378c5fff0cfc881daff6b92e6d/2766693/399x289/2766693.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'World Press Photo wordt denktank'</title>
-      <link>http://www.volkskrant.nl/tech/world-press-photo-wordt-denktank~a3847966/</link>
-      <description>Donderdag wordt de winnaar bekend van de World Press Photo 2015. Nieuwe directeur Lars Boering wil van de organisatie een internationale denktank van de fotojournalistiek maken.</description>
-      <pubDate>Tue, 10 Feb 2015 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/world-press-photo-wordt-denktank~a3847966/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/6/f1dc5ba802d2365891308cf890b17441/2766591/399x289/2766591.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/6/f1dc5ba802d2365891308cf890b17441/2766591/399x289/2766591.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>TomTom aangeklaagd in VS na busongeval</title>
-      <link>http://www.volkskrant.nl/economie/tomtom-aangeklaagd-in-vs-na-busongeval~a3847531/</link>
-      <description>De slachtoffers van een busongeval in de Verenigde Staten eisen voor de rechter een schadevergoeding van twee producenten van navigatieapparatuur, waaronder het Nederlandse TomTom. Volgens de aanklacht had de gps-apparatuur moeten waarschuwen voor een te laag viaduct.</description>
-      <pubDate>Mon, 09 Feb 2015 13:15:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/tomtom-aangeklaagd-in-vs-na-busongeval~a3847531/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/4/12/077fc3128f847cf439b6646fa4b53ecf/2764782/399x289/2764782.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/4/12/077fc3128f847cf439b6646fa4b53ecf/2764782/399x289/2764782.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Rusland wil Nederland spreken over uitlevering hacker</title>
-      <link>http://www.volkskrant.nl/binnenland/rusland-wil-nederland-spreken-over-uitlevering-hacker~a3847667/</link>
-      <description>Rusland wil onmiddellijk overleg met Nederland over de voorgenomen uitlevering van de Russische hacker Vladimir Drinkman aan de Verenigde Staten. Moskou heeft daar formeel om gevraagd. Dat heeft Drinkmans advocaat Bart Stapert vandaag laten weten. De Rus wordt verdacht van de diefstal van 160 miljoen creditcardgegevens.</description>
-      <pubDate>Mon, 09 Feb 2015 10:54:00 GMT</pubDate>
-      <author>Huib Modderkolk</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rusland-wil-nederland-spreken-over-uitlevering-hacker~a3847667/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/8/7/4f059f1deb68ff7fb8d6546394c6e594/2765347/399x289/2765347.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/8/7/4f059f1deb68ff7fb8d6546394c6e594/2765347/399x289/2765347.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Wagens in VS slecht beveiligd tegen hackers'</title>
-      <link>http://www.volkskrant.nl/buitenland/wagens-in-vs-slecht-beveiligd-tegen-hackers~a3847559/</link>
-      <description>Draadloze technologie in Amerikaanse voertuigen is vaak nauwelijks beveiligd tegen hackers. Daarvoor waarschuwt de Amerikaanse senator Edward Markey in een rapport dat vandaag wordt gepubliceerd, meldt The New York Times.</description>
-      <pubDate>Mon, 09 Feb 2015 07:04:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/wagens-in-vs-slecht-beveiligd-tegen-hackers~a3847559/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/05131781f0ddad039468c2cfba6423ac/2764870/399x289/2764870.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/05131781f0ddad039468c2cfba6423ac/2764870/399x289/2764870.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>De Drie Apps van de Week: Duolir, Shadowmatic en Camu</title>
-      <link>http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-duolir-shadowmatic-en-camu~a3845288/</link>
-      <description>Volkskrant.nl zet elke zondag de leukste, handigste en meest informatieve apps voor u op een rijtje. Deze week: buitenlandstalige boeken laten vertalen, spelen met schaduwen en selfies maken.</description>
-      <pubDate>Sun, 08 Feb 2015 06:00:00 GMT</pubDate>
-      <author>Thomas van der Kolk</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-duolir-shadowmatic-en-camu~a3845288/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/8/0/35c9e5a169278b488d8857dda0675c23/2758020/399x289/2758020.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/8/0/35c9e5a169278b488d8857dda0675c23/2758020/399x289/2758020.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Britse schapen krijgen Wi-Fi</title>
-      <link>http://www.volkskrant.nl/tech/britse-schapen-krijgen-wi-fi~a3846973/</link>
-      <description>In Engeland zijn wetenschappers begonnen met een experiment waarbij schapen worden uitgerust met Wi-Fi-sensoren. Hiermee wordt het onder andere makkelijker voor boeren om hun weggelopen schapen terug te vinden. Dat meldt de BBC.</description>
-      <pubDate>Sat, 07 Feb 2015 20:41:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/britse-schapen-krijgen-wi-fi~a3846973/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/3/10/2bb21a718cb58e9294d4417a07da693a/2762860/399x289/2762860.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/3/10/2bb21a718cb58e9294d4417a07da693a/2762860/399x289/2762860.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Koenders: 'Internet moet veiliger'</title>
-      <link>http://www.volkskrant.nl/tech/koenders-internet-moet-veiliger~a3846866/</link>
-      <description>Er moet meer gedaan worden om de veiligheid van het internet te vergroten en cybercrime te voorkomen. Daarom wordt op de komende internationale conferentie over het internet in Den Haag een nieuw initiatief gelanceerd voor het vergroten van de capaciteit die hiervoor nodig is.</description>
-      <pubDate>Sat, 07 Feb 2015 14:08:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/koenders-internet-moet-veiliger~a3846866/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/3/f8c34db56491e699e18df40aabf5c1e6/2762148/399x289/2762148.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/3/f8c34db56491e699e18df40aabf5c1e6/2762148/399x289/2762148.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Programmeren kun je (echt heel jong al) leren</title>
-      <link>http://www.volkskrant.nl/binnenland/programmeren-kun-je-echt-heel-jong-al-leren~a3846188/</link>
-      <description>Bill Gates en Mark Zuckerberg begonnen ook jong, dus leren meer en meer basisscholen hun leerlingen programmeren. Hard nodig, zegt de ict-branche. Weer een technologiehype, zegt de onderwijspsycholoog.</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/programmeren-kun-je-echt-heel-jong-al-leren~a3846188/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/1/14/7de825550afb133318c886cc286e07b2/2760104/399x289/2760104.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/1/14/7de825550afb133318c886cc286e07b2/2760104/399x289/2760104.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Weten hoe veel je in bed woelt</title>
-      <link>http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</link>
-      <description>De stappenteller van Fitbit meet nauwkeurig je nachtrust en ongeveer je beweging.</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Bard van de Weijer</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Verliest Nederland sleutelrol in internet?</title>
-      <link>http://www.volkskrant.nl/tech/verliest-nederland-sleutelrol-in-internet~a3846420/</link>
-      <description>Het kabinet kan verder met zijn plan om de inlichtingendiensten AIVD en MIVD ruwe communicatiegegevens van burgers op de kabel te laten onderscheppen. Nu mogen die diensten dat nog niet, maar het kabinet vindt het hard nodig om dit wettelijk mogelijk te maken, omdat de meeste communicatie tegenwoordig via de kabel verloopt. Voor het grootste internetknooppunt ter wereld, AMS-IX in Amsterdam, betekent dat wellicht het verlies van die positie.</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Huib Modderkolk</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/verliest-nederland-sleutelrol-in-internet~a3846420/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/3/b4128ab6ec318b5d407044d48144792a/2761458/399x289/2761458.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/3/b4128ab6ec318b5d407044d48144792a/2761458/399x289/2761458.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Google Maps is 10 jaar: is dat een ramp of niet?</title>
-      <link>http://www.volkskrant.nl/economie/google-maps-is-10-jaar-is-dat-een-ramp-of-niet~a3846411/</link>
-      <description>Wie wil weten hoeveel invloed de komst van Google Maps heeft gehad - morgen op de kop af 10 jaar geleden - moet bellen met Rene Bertagna uit Washington DC. De Amerikaan heeft Google voor de rechter gedaagd. De aanleiding: omdat Googles onlinekaartendienst de verkeerde openingstijden vermeldde, kwamen klanten niet meer naar het restaurant waar Bertagna leeuw en kangoeroe serveerde. Na 40 jaar moest de Serbian Crown sluiten.</description>
-      <pubDate>Sat, 07 Feb 2015 00:00:00 GMT</pubDate>
-      <author>Peter van Ammelrooy</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/google-maps-is-10-jaar-is-dat-een-ramp-of-niet~a3846411/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/d4ba05d71017b84b7d96e2b9b7e95cb0/2761424/399x289/2761424.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/d4ba05d71017b84b7d96e2b9b7e95cb0/2761424/399x289/2761424.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>I like to move it, move it</title>
-      <link>http://www.volkskrant.nl/tech/i-like-to-move-it-move-it~a3846273/</link>
-      <description>Intel waagt zich met RealSense aan de tot nog toe weinig succesvolle gebarenbediening. Maar dan wel met een sensor die meer kan.</description>
-      <pubDate>Sat, 07 Feb 2015 00:00:00 GMT</pubDate>
-      <author>Peter van Ammelrooy</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/i-like-to-move-it-move-it~a3846273/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/1/3/7e5861d36be9a7c82da4442f2480fb91/2760138/399x289/2760138.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/1/3/7e5861d36be9a7c82da4442f2480fb91/2760138/399x289/2760138.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Meer bevoegdheden AIVD schadelijk voor digitale economie'</title>
-      <link>http://www.volkskrant.nl/tech/meer-bevoegdheden-aivd-schadelijk-voor-digitale-economie~a3846291/</link>
-      <description>Het kabinetsvoorstel om inlichtingendiensten nieuwe bevoegdheden te geven brengt ernstige schade toe aan de digitale economie. Dat zegt Bastiaan Goslings, verantwoordelijk voor beleid en regelgeving bij het Amsterdamse internetknooppunt AMS-IX.</description>
-      <pubDate>Fri, 06 Feb 2015 20:30:00 GMT</pubDate>
-      <author>Huib Modderkolk</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/meer-bevoegdheden-aivd-schadelijk-voor-digitale-economie~a3846291/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/12/2/ab39f4a8f82009a13c7fd727a78c6292/2761067/399x289/2761067.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/12/2/ab39f4a8f82009a13c7fd727a78c6292/2761067/399x289/2761067.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Game van de week: fitness-trainer Shape Up kietelt vooral de lachspieren</title>
-      <link>http://www.volkskrant.nl/tech/game-van-de-week-fitness-trainer-shape-up-kietelt-vooral-de-lachspieren~a3846313/</link>
-      <description>Werd zelfbevrediging vroeger als oorzaak aangewezen van ruggemergvergroeiingen, nu schrijven sommige artsen tal van fysieke kwalen toe aan gamen. Wat is er dan ironischer dan een computerspel dat je conditie verbetert?</description>
-      <pubDate>Fri, 06 Feb 2015 18:46:00 GMT</pubDate>
-      <author>Peter van Ammelrooy</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/game-van-de-week-fitness-trainer-shape-up-kietelt-vooral-de-lachspieren~a3846313/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/3/14/8d22b99d3919901d6c363be5e11bdef6/2761109/399x289/2761109.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/3/14/8d22b99d3919901d6c363be5e11bdef6/2761109/399x289/2761109.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Apple wil met Beats concurrentie aan met Spotify'</title>
-      <link>http://www.volkskrant.nl/economie/apple-wil-met-beats-concurrentie-aan-met-spotify~a3846161/</link>
-      <description>Apple wil de concurrentie aangaan met muziekstreamingdiensten als Spotify. Het bedrijf nam vorig jaar Beats Electronics over en wil nu de al bestaande streamingdienst Beats Music vernieuwen. Dat meldt 9to5mac op basis van informatie van ingewijden.</description>
-      <pubDate>Fri, 06 Feb 2015 15:08:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/apple-wil-met-beats-concurrentie-aan-met-spotify~a3846161/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/6/10/ff8f4cc00d85771036ef3f7209e33e39/2760670/399x289/2760670.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/6/10/ff8f4cc00d85771036ef3f7209e33e39/2760670/399x289/2760670.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>OM: vijf jaar cel kopstuk 'marktplaatsfraude'</title>
-      <link>http://www.volkskrant.nl/binnenland/om-vijf-jaar-cel-kopstuk-marktplaatsfraude~a3846060/</link>
-      <description>Het Openbaar Ministerie (OM) wil dat vermeend internetoplichter Remy D. (29) vijf jaar achter de tralies verdwijnt. Voor de rechtbank in Haarlem betoogde de aanklager vandaag dat D. zich schuldig heeft gemaakt aan oplichting, witwassen en het leiding geven aan een criminele organisatie.</description>
-      <pubDate>Fri, 06 Feb 2015 11:21:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/om-vijf-jaar-cel-kopstuk-marktplaatsfraude~a3846060/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/14/0/92cd711e196f4f7e4b2e20896c9b2b88/2760270/399x289/2760270.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/14/0/92cd711e196f4f7e4b2e20896c9b2b88/2760270/399x289/2760270.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Sony-topvrouw weg uit leiding bedrijf</title>
-      <link>http://www.volkskrant.nl/buitenland/sony-topvrouw-weg-uit-leiding-bedrijf~a3845511/</link>
-      <description>Topvrouw Amy Pascal legt haar functie bij Sony neer. Ze gaat een productiemaatschappij starten binnen het bedrijf, liet Sony donderdag weten. Meer dan tien jaar leidde ze de filmtak van het bedrijf.</description>
-      <pubDate>Thu, 05 Feb 2015 18:46:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/sony-topvrouw-weg-uit-leiding-bedrijf~a3845511/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/4/12/42d571afecae9776b0bb96d349d76f87/2759172/399x289/2759172.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/4/12/42d571afecae9776b0bb96d349d76f87/2759172/399x289/2759172.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Twitter-directeur: 'Ik schaam mij diep voor laksheid met trollen'</title>
-      <link>http://www.volkskrant.nl/tech/twitter-directeur-ik-schaam-mij-diep-voor-laksheid-met-trollen~a3845297/</link>
-      <description>Twitter-directeur Dick Costolo gaat diep door het stof. Twitter heeft jarenlang verzaakt pestkoppen aan te pakken en daar is hij 'persoonlijk verantwoordelijk' voor. Dat schrijft Costolo in een interne memo, in het bezit van The Verge.</description>
-      <pubDate>Thu, 05 Feb 2015 12:58:00 GMT</pubDate>
-      <author>Heleen van Lier</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/twitter-directeur-ik-schaam-mij-diep-voor-laksheid-met-trollen~a3845297/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/7/3/7549bae205dfc8bec27352887dd2d64f/2758053/399x289/2758053.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/7/3/7549bae205dfc8bec27352887dd2d64f/2758053/399x289/2758053.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Vlieg niet bij bebouwing en geef altijd voorrang aan zeppelins</title>
-      <link>http://www.volkskrant.nl/tech/vlieg-niet-bij-bebouwing-en-geef-altijd-voorrang-aan-zeppelins~a3844723/</link>
-      <description>Drones zijn hot, bij bedrijven en particulieren. En velen hopen er geld mee te kunnen verdienen, blijkt woensdag op de dronebeurs in Den Haag. Maar let op: een zeppelin heeft altijd voorrang.</description>
-      <pubDate>Thu, 05 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Bard van de Weijer</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/vlieg-niet-bij-bebouwing-en-geef-altijd-voorrang-aan-zeppelins~a3844723/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/11/2/3e844602cadd697b22ae31ef00ecd7f6/2756612/399x289/2756612.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/11/2/3e844602cadd697b22ae31ef00ecd7f6/2756612/399x289/2756612.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Aan de Renegade zit nog maar weinig hoekigs</title>
-      <link>http://www.volkskrant.nl/economie/aan-de-renegade-zit-nog-maar-weinig-hoekigs~a3844629/</link>
-      <description>Het rebelse van de Jeep Renegade zit slechts nog in de naam. Comfort en rij-eigenschappen zijn allemaal even prettig. Logisch dat het hoekige er steeds meer vanaf gaat.</description>
-      <pubDate>Thu, 05 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Bart Koetsenruijter</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/aan-de-renegade-zit-nog-maar-weinig-hoekigs~a3844629/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/5/6/10/39550c9313dfa004748acd9c22603e17/2756335/399x289/2756335.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/5/6/10/39550c9313dfa004748acd9c22603e17/2756335/399x289/2756335.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Silk Road-oprichter krijgt gevangenisstraf</title>
-      <link>http://www.volkskrant.nl/tech/silk-road-oprichter-krijgt-gevangenisstraf~a3844742/</link>
-      <description>De oprichter van de website Silk Road gaat hoogstwaarschijnlijk de cel in. Een jury verklaarde Ross Ulbricht vandaag in de Verenigde Staten schuldig aan het runnen van de site, waar onder meer drugs en valse identiteitsbewijzen werden verhandeld, aldus Amerikaanse media. Welke straf Ulbricht krijgt, wordt later bepaald.</description>
-      <pubDate>Wed, 04 Feb 2015 21:48:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/silk-road-oprichter-krijgt-gevangenisstraf~a3844742/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/13/8475d7b89ca024e995127add56ec527f/2756578/399x289/2756578.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/13/8475d7b89ca024e995127add56ec527f/2756578/399x289/2756578.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Hack kostte volgens Sony 'slechts' 15 miljoen dollar</title>
-      <link>http://www.volkskrant.nl/tech/hack-kostte-volgens-sony-slechts-15-miljoen-dollar~a3844478/</link>
-      <description>De grote cyberaanval op het netwerk van de Amerikaanse filmmaatschappij Sony Pictures eind vorig jaar heeft het bedrijf ongeveer 15 miljoen dollar (ruim 13 miljoen euro) gekost. Dat valt op te maken uit het kwartaalrapport van Sony, dat vanwege diezelfde hack later dan gepland werd gepubliceerd.</description>
-      <pubDate>Wed, 04 Feb 2015 14:41:00 GMT</pubDate>
-      <author>Thomas van der Kolk</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/hack-kostte-volgens-sony-slechts-15-miljoen-dollar~a3844478/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/11/10/509b94e637951fa44e2849b96a9d3c56/2755660/399x289/2755660.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/11/10/509b94e637951fa44e2849b96a9d3c56/2755660/399x289/2755660.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Acht dingen die u volgend jaar met uw drone doet</title>
-      <link>http://www.volkskrant.nl/tech/acht-dingen-die-u-volgend-jaar-met-uw-drone-doet~a3844360/</link>
-      <description>Het moet de grootste beurs voor drones in Europa worden, de TUSExpo (The Unmanned Systems Expo)  die vandaag in Den Haag begint. Drones worden goedkoper, kunnen steeds meer tillen, worden makkelijker te besturen - dus het is een kwestie van tijd of ook u hebt uw eigen toestel in de schuur staan.</description>
-      <pubDate>Wed, 04 Feb 2015 11:23:00 GMT</pubDate>
-      <author>Bard van de Weijer</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/acht-dingen-die-u-volgend-jaar-met-uw-drone-doet~a3844360/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/8e3b1e9003489a72442a7fbefd54980c/2755180/399x289/2755180.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/8e3b1e9003489a72442a7fbefd54980c/2755180/399x289/2755180.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Btw-regels EU onwerkbaar voor webwinkels'</title>
-      <link>http://www.volkskrant.nl/tech/btw-regels-eu-onwerkbaar-voor-webwinkels~a3843835/</link>
-      <description>Nieuwe Europese btw-regels zijn volgens de PvdA volslagen onwerkbaar voor webwinkels. De administratieve chaos door de regels is zelfs zo groot dat online-verkopers gedwongen zijn hun bedrijf op te geven.</description>
-      <pubDate>Tue, 03 Feb 2015 20:44:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/btw-regels-eu-onwerkbaar-voor-webwinkels~a3843835/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/10/8/acdfe17a758cd1d0285686d72a54b0f6/2754248/399x289/2754248.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/10/8/acdfe17a758cd1d0285686d72a54b0f6/2754248/399x289/2754248.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Voor het eerst wereldwijd minder tablets verkocht</title>
-      <link>http://www.volkskrant.nl/economie/voor-het-eerst-wereldwijd-minder-tablets-verkocht~a3843476/</link>
-      <description>Voor het eerst sinds de lancering van de tablet in 2010 is een daling van de verkoopcijfers waargenomen. In het laatste kwartaal van 2014 werden 76,1 miljoen exemplaren verkocht, terwijl in dezelfde periode een jaar eerder nog 78,6 tablets over de toonbank gingen. Een daling van 3,2 procent, meldt de International Data Corporation (IDC).</description>
-      <pubDate>Tue, 03 Feb 2015 11:27:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/economie/voor-het-eerst-wereldwijd-minder-tablets-verkocht~a3843476/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/8/1/f7651cfdaf06e9261bc48899d60adf49/2753056/399x289/2753056.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/8/1/f7651cfdaf06e9261bc48899d60adf49/2753056/399x289/2753056.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Zelfrijdende Google-taxi moet concurreren met Uber'</title>
-      <link>http://www.volkskrant.nl/binnenland/zelfrijdende-google-taxi-moet-concurreren-met-uber~a3843423/</link>
-      <description>Taxidienst Uber lijkt binnenkort concurrentie te krijgen van een van zijn grootste investeerders. Technologiegigant Google werkt momenteel aan zijn eigen mobiele taxidienst, bericht persburau Bloomberg.</description>
-      <pubDate>Tue, 03 Feb 2015 10:39:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/zelfrijdende-google-taxi-moet-concurreren-met-uber~a3843423/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/14/7/83466a9695bedcd1f938f53a59fe40b8/2753062/399x289/2753062.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/14/7/83466a9695bedcd1f938f53a59fe40b8/2753062/399x289/2753062.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Vermeende leider Marktplaats-bende: 'Ik ging niet over het geld'</title>
-      <link>http://www.volkskrant.nl/tech/vermeende-leider-marktplaats-bende-ik-ging-niet-over-het-geld~a3842702/</link>
-      <description>Een bende zou duizenden mensen via Marktplaats opgelicht hebben. De bende verkocht via Marktplaats onder andere smartphones, tablets, mediaspelers en navigatieapparatuur. De spullen werden echter nooit geleverd. De groep staat vandaag voor de rechter in Haarlem. Er is drie weken uitgetrokken voor het proces.</description>
-      <pubDate>Mon, 02 Feb 2015 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/vermeende-leider-marktplaats-bende-ik-ging-niet-over-het-geld~a3842702/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/2/9/7440f3237f15913a939e70dc9f678873/2751384/399x289/2751384.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/2/9/7440f3237f15913a939e70dc9f678873/2751384/399x289/2751384.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Zweeds bedrijf plant microchips onder huid werknemers</title>
-      <link>http://www.volkskrant.nl/tech/zweeds-bedrijf-plant-microchips-onder-huid-werknemers~a3842159/</link>
-      <description>Werknemers van bedrijven in een nieuw Zweeds kantoorgebouw kunnen als alternatief voor een toegangspas een microchip onder hun huid laten implanteren. De kleine chips, ongeveer ter grootte van een rijstkorrel, worden onder de huid van de hand geplaatst en daarna gebruikt om via RFID (identificatie met radiogolven) deuren te openen of de kopieermachine te bedienen.</description>
-      <pubDate>Sun, 01 Feb 2015 15:24:00 GMT</pubDate>
-      <author>Lisa van der Velden</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/tech/zweeds-bedrijf-plant-microchips-onder-huid-werknemers~a3842159/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/10/8/9318a5a4f760087bdaa83545d2156add/2749658/399x289/2749658.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/10/8/9318a5a4f760087bdaa83545d2156add/2749658/399x289/2749658.jpeg" />
-      </media:content>
-    </item>
-  </channel>
-</rss>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>VK:Tech</title>
+    <link>http://www.volkskrant.nl</link>
+    <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
+    <language>nl-NL</language>
+    <copyright>de Persgroep Publishing Nederland NV</copyright>
+    <pubDate>Sun, 15 Feb 2015 15:12:28 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 15:12:28 GMT</lastBuildDate>
+    <image>
+      <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
+      <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
+      <link>http://www.volkskrant.nl</link>
+    </image>
+    <item>
+      <title>'Hackers sluisden tientallen miljoenen van banken weg'</title>
+      <link>http://www.volkskrant.nl/economie/hackers-sluisden-tientallen-miljoenen-van-banken-weg~a3851787/</link>
+      <description>Hackers hebben maandenlang tientallen miljoenen euro's weggesluisd van meer dan honderd banken in vooral de Verenigde Staten, Japan, Rusland maar ook Nederland. Dat meldt The New York Times vandaag.</description>
+      <pubDate>Sun, 15 Feb 2015 07:54:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/hackers-sluisden-tientallen-miljoenen-van-banken-weg~a3851787/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/10/10/68b591d1ff9e537145e570bdab4b61e9/2778235/399x289/2778235.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/10/10/68b591d1ff9e537145e570bdab4b61e9/2778235/399x289/2778235.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>De Drie Apps van de Week: Limbo, Evoland en Blendle Trending</title>
+      <link>http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-limbo-evoland-en-blendle-trending~a3851104/</link>
+      <description>Volkskrant.nl zet elke zondag de leukste, handigste en meest informatieve apps voor u op een rijtje. Deze week: het duistere Limbo, het nostalgische Evoland en het handige Blendle Trending.</description>
+      <pubDate>Sun, 15 Feb 2015 06:00:00 GMT</pubDate>
+      <author>Thomas van der Kolk</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-limbo-evoland-en-blendle-trending~a3851104/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/11/6f19060e05691b7a15a600485dde1623/2776256/399x289/2776256.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/11/6f19060e05691b7a15a600485dde1623/2776256/399x289/2776256.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Apple werkt aan elektrische auto'</title>
+      <link>http://www.volkskrant.nl/economie/apple-werkt-aan-elektrische-auto~a3851584/</link>
+      <description>Technologieconcern Apple werkt aan een elektrische auto. Dat meldden verscheidene buitenlandse media op basis van anonieme bronnen.</description>
+      <pubDate>Sat, 14 Feb 2015 11:05:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/apple-werkt-aan-elektrische-auto~a3851584/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/6/14/3340a47c80917628e14c4711a21dbea3/2777024/399x289/2777024.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/6/14/3340a47c80917628e14c4711a21dbea3/2777024/399x289/2777024.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Game-pc vermomd als spelcomputer</title>
+      <link>http://www.volkskrant.nl/tech/game-pc-vermomd-als-spelcomputer~a3850990/</link>
+      <description>De voordelen van een console combineren met die van een echte pc: dat doet de Alpha van Alienware. Gamen gaat prima, ook voor pc-vrezers. Maar duurder dan een console is hij wel.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Peter van Ammelrooy</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/game-pc-vermomd-als-spelcomputer~a3850990/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/13/7/1189ec51f6f4395d086ca0e61877fcce/2775637/399x289/2775637.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/13/7/1189ec51f6f4395d086ca0e61877fcce/2775637/399x289/2775637.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Als machines er alleen voor staan</title>
+      <link>http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</link>
+      <description>Stel dat de mens bij toverslag verdwijnt: blijven de machines dan draaien? Welnee, zeggen alle experts. Maar dat is nu. Over dolende drones, doorploegende grasmaaiers en fabrieken zonder stekker.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Maarten Keulemans</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Bioscoopgevoel</title>
+      <link>http://www.volkskrant.nl/dossier-gadgetdesk/bioscoopgevoel~a3850142/</link>
+      <description>Een projector waarmee je in je huiskamer Pathé naar de kroon kunt steken. Kost wel wat.</description>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
+      <author>Bard van de Weijer</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-gadgetdesk/bioscoopgevoel~a3850142/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/13/5/58aefd2c9f30629f11000caba0338492/2773070/399x289/2773070.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/13/5/58aefd2c9f30629f11000caba0338492/2773070/399x289/2773070.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Gezondheidsapps zijn goudmijn</title>
+      <link>http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</link>
+      <description>De gegevens uit de populaire gezondheidsapps zijn doorgaans persoonlijk, gedetailleerd en gevoelig. Dat maakt ze zeer waardevol. Slechts weinig gebruikers zijn zich bewust van de risico's.</description>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
+      <author>Hidde Boersma</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Groen surfen? Zeg dan maar dag tegen die poezenfilmpjes</title>
+      <link>http://www.volkskrant.nl/dossier-groen/groen-surfen-zeg-dan-maar-dag-tegen-die-poezenfilmpjes~a3851103/</link>
+      <description>De opslag, maar vooral het gebruik van data kost steeds meer stroom. Kun je daar als milieubewuste internetgebruiker iets aan doen? Ja, al maakt dat niet veel uit.</description>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
+      <author>Tjerk Gualthérie van Weezel</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-groen/groen-surfen-zeg-dan-maar-dag-tegen-die-poezenfilmpjes~a3851103/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/15/8/5/2a24c7a689d5820e437cf1d1bba63314/2776295/399x289/2776295.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/15/8/5/2a24c7a689d5820e437cf1d1bba63314/2776295/399x289/2776295.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Obama wil meer actie tegen cyberaanvallen</title>
+      <link>http://www.volkskrant.nl/tech/obama-wil-meer-actie-tegen-cyberaanvallen~a3851177/</link>
+      <description>Politiek en bedrijfsleven moeten samenwerken om cyberaanvallen af te slaan. Dit zei de Amerikaanse president Barack Obama in een toespraak vandaag op de Stanford Universiteit in Californië, waar een grote bijeenkomst over 'cyberveiligheid' wordt gehouden.</description>
+      <pubDate>Fri, 13 Feb 2015 22:54:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/obama-wil-meer-actie-tegen-cyberaanvallen~a3851177/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/2/53618b3a3f437e9812b7495fb66fbbbb/2776562/399x289/2776562.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/2/53618b3a3f437e9812b7495fb66fbbbb/2776562/399x289/2776562.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Nederland op vijfde plek met bijna miljoen Netflix-abonnees'</title>
+      <link>http://www.volkskrant.nl/media/nederland-op-vijfde-plek-met-bijna-miljoen-netflix-abonnees~a3851031/</link>
+      <description>NEW YORK - Nederland telt inmiddels 940.000 Netflix-abonnees en staat hiermee wereldwijd op de vijfde plek. Dit blijkt uit een onderzoek van de New York Times.</description>
+      <pubDate>Fri, 13 Feb 2015 17:31:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/media/nederland-op-vijfde-plek-met-bijna-miljoen-netflix-abonnees~a3851031/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/1/13/ae50b640bd11d9cb396b4fd541dc3aa5/2776033/399x289/2776033.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/1/13/ae50b640bd11d9cb396b4fd541dc3aa5/2776033/399x289/2776033.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>CEO's bedanken voor Obama's cybertop</title>
+      <link>http://www.volkskrant.nl/buitenland/ceos-bedanken-voor-obamas-cybertop~a3850734/</link>
+      <description>De algemeen directeuren van technologiebedrijven Facebook, Yahoo en Google gaan niet naar de cybertop waar de Amerikaanse president Barack Obama wel aanwezig zal zijn. Dat meldt het Amerikaanse persbureau Bloomberg. Het persbureau meldt ook dat de bekoelde relatie tussen de overheid en de bedrijven de mogelijke reden is voor afwezigheid.</description>
+      <pubDate>Fri, 13 Feb 2015 16:10:00 GMT</pubDate>
+      <author>Christiaan Heijerman</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/ceos-bedanken-voor-obamas-cybertop~a3850734/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/15/11/62141ad87f555cd4b148ed3bb23a1734/2774636/399x289/2774636.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/15/11/62141ad87f555cd4b148ed3bb23a1734/2774636/399x289/2774636.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Russische hacker Drinkman uitgeleverd aan VS</title>
+      <link>http://www.volkskrant.nl/binnenland/russische-hacker-drinkman-uitgeleverd-aan-vs~a3850892/</link>
+      <description>Vladimir Drinkman, de Rus die ervan wordt verdacht achter een van de grootste datadiefstallen ooit te zitten, is vandaag uitgeleverd aan de Verenigde Staten. Dat meldde zijn advocaat Bart Stapert. De VS hadden Nederland gevraagd om de uitlevering van de vermeende hacker, de Nederlandse rechter keurde de uitlevering goed.</description>
+      <pubDate>Fri, 13 Feb 2015 13:05:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/russische-hacker-drinkman-uitgeleverd-aan-vs~a3850892/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/1/14/e01c3108eef05309b1417f19951f5515/2775149/399x289/2775149.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/1/14/e01c3108eef05309b1417f19951f5515/2775149/399x289/2775149.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Game van de week: Grim Fandango, het tweede leven van een meesterlijke Magere Hein</title>
+      <link>http://www.volkskrant.nl/tech/game-van-de-week-grim-fandango-het-tweede-leven-van-een-meesterlijke-magere-hein~a3850771/</link>
+      <description>Over de doden niets dan goeds, luidt het spreekwoord. Grim Fandango heeft niks te klagen: de game wordt al sinds 1998 het graf ingeprezen. Beleeft de titel terecht zijn wederopstanding?</description>
+      <pubDate>Fri, 13 Feb 2015 09:54:00 GMT</pubDate>
+      <author>Peter van Ammelrooy</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/game-van-de-week-grim-fandango-het-tweede-leven-van-een-meesterlijke-magere-hein~a3850771/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/0/6/b93c59fbfe9f00afb5b6a8186f8d79fc/2774706/399x289/2774706.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/0/6/b93c59fbfe9f00afb5b6a8186f8d79fc/2774706/399x289/2774706.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Films van 'legendarische' theatervoorstellingen in digitale filmbank</title>
+      <link>http://www.volkskrant.nl/theater/films-van-legendarische-theatervoorstellingen-in-digitale-filmbank~a3850341/</link>
+      <description>Theater heeft een groot nadeel ten opzichte van andere kunstvormen. Het verdwijnt. Een fantastisch boek kan je herlezen. Muziek en films kan je honderden keren afspelen. Beeldende kunst kan je desnoods aanschaffen. Maar theatervoorstellingen zijn een korte periode te zien, waarna spelers zich op andere projecten richten en het kunstwerk voorgoed verdwijnt. Liefhebbers moeten het doen met de herinnering.</description>
+      <pubDate>Fri, 13 Feb 2015 01:00:00 GMT</pubDate>
+      <author>VINCENT Kouters</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/theater/films-van-legendarische-theatervoorstellingen-in-digitale-filmbank~a3850341/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/12/1cabfc4826f0891f9b1ea2ef62f2510f/2773722/399x289/2773722.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/12/1cabfc4826f0891f9b1ea2ef62f2510f/2773722/399x289/2773722.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>China's internetcensuur krijgt bloemrijk themalied</title>
+      <link>http://www.volkskrant.nl/media/chinas-internetcensuur-krijgt-bloemrijk-themalied~a3850197/</link>
+      <description>China schaamt zich niet voor het rigide censuurbeleid dat het zijn burgers oplegt. Integendeel, de Volksrepubliek is zo trots op zijn 'great firewall' dat er een imposant lied voor is gecreëerd.</description>
+      <pubDate>Thu, 12 Feb 2015 15:41:00 GMT</pubDate>
+      <author>Heleen van Lier</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/media/chinas-internetcensuur-krijgt-bloemrijk-themalied~a3850197/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/10/7/1e76b12aaf2615e63e5352ac2d3ab68f/2773237/399x289/2773237.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/10/7/1e76b12aaf2615e63e5352ac2d3ab68f/2773237/399x289/2773237.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>SBS neemt nu ook 'YouTube-sterren' onder zijn hoede</title>
+      <link>http://www.volkskrant.nl/tech/sbs-neemt-nu-ook-youtube-sterren-onder-zijn-hoede~a3850127/</link>
+      <description>In navolging van mediabedrijf RTL Nederland stort nu ook concurrent SBS/Sanoma zich op de jonge makers van populaire YouTube-kanalen. Het bedrijf neemt een belang in Social1nfluencers, een netwerk van vooral onder tieners populaire videomakers. Dat heeft topman Peter de Mönnink van SBS/Sanoma vandaag bekendgemaakt.</description>
+      <pubDate>Thu, 12 Feb 2015 14:49:00 GMT</pubDate>
+      <author>Thijs van Soest</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/sbs-neemt-nu-ook-youtube-sterren-onder-zijn-hoede~a3850127/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/12/0/36c69ebd5d1c7b3b727a257a7cb38a2e/2773035/399x289/2773035.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/12/0/36c69ebd5d1c7b3b727a257a7cb38a2e/2773035/399x289/2773035.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Brazilië zet Tinder in bij strijd tegen hiv</title>
+      <link>http://www.volkskrant.nl/buitenland/brazilie-zet-tinder-in-bij-strijd-tegen-hiv~a3850081/</link>
+      <description>De Braziliaanse overheid zet de populaire dating-app Tinder in om jongeren te waarschuwen tegen de gevaren van onbeschermde seks. Tinder zelf ziet dat als ongewenste reclame.</description>
+      <pubDate>Thu, 12 Feb 2015 13:10:00 GMT</pubDate>
+      <author>Thomas van der Kolk</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/brazilie-zet-tinder-in-bij-strijd-tegen-hiv~a3850081/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/16/10/7849eba2587819744d7ffd0d26868772/2772835/399x289/2772835.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/16/10/7849eba2587819744d7ffd0d26868772/2772835/399x289/2772835.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Strengere regels voor vergelijkingssites zorgverzekeringen</title>
+      <link>http://www.volkskrant.nl/binnenland/strengere-regels-voor-vergelijkingssites-zorgverzekeringen~a3849962/</link>
+      <description>Minister Edith Schippers van Volksgezondheid wil de regels voor vergelijkingssites voor zorgverzekeringen verscherpen. De informatie op deze sites is 'niet altijd juist en volledig', zo bleek uit onderzoeken door de Nederlandse Zorgautoriteit (Nza) en de Autoriteit Financiële Markten (AFM).</description>
+      <pubDate>Thu, 12 Feb 2015 10:21:00 GMT</pubDate>
+      <author>Heleen van Lier</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/strengere-regels-voor-vergelijkingssites-zorgverzekeringen~a3849962/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/9/6/2ae5ad097da9d62168a4deaa624389ac/2772471/399x289/2772471.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/9/6/2ae5ad097da9d62168a4deaa624389ac/2772471/399x289/2772471.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>WK houdt elektronicamarkt overeind</title>
+      <link>http://www.volkskrant.nl/economie/wk-houdt-elektronicamarkt-overeind~a3849571/</link>
+      <description>Het WK voetbal was afgelopen jaar de pijler die de kwakkelende markt voor consumentenelektronica overeind hield. Dankzij de extra televisies die de consument zich vorig jaar aanschafte om Oranje te zien spelen, bleef de krimp van de sector beperkt tot 1,5 procent.</description>
+      <pubDate>Thu, 12 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Bard van de Weijer</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/wk-houdt-elektronicamarkt-overeind~a3849571/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/0/8/ff2d8e1d75d5d1f07f3141a0a85ea9d4/2771408/399x289/2771408.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/0/8/ff2d8e1d75d5d1f07f3141a0a85ea9d4/2771408/399x289/2771408.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Dubbele studie, dankzij beurs techbedrijf</title>
+      <link>http://www.volkskrant.nl/dossier-onderwijs/dubbele-studie-dankzij-beurs-techbedrijf~a3849621/</link>
+      <description>Ze hoeven niet bij ASML te komen werken, als de talenten maar in de buurt komen studeren. Waarom geeft deze firma geld uit zonder tegenprestatie?</description>
+      <pubDate>Wed, 11 Feb 2015 23:02:00 GMT</pubDate>
+      <author>Maartje Bakker</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-onderwijs/dubbele-studie-dankzij-beurs-techbedrijf~a3849621/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/8/4/1845f677c6f38e83d8462ce572339878/2771569/399x289/2771569.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/8/4/1845f677c6f38e83d8462ce572339878/2771569/399x289/2771569.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Manning vanuit gevangenis nieuwe columnist Guardian</title>
+      <link>http://www.volkskrant.nl/dossier-wikileaks/manning-vanuit-gevangenis-nieuwe-columnist-guardian~a3849172/</link>
+      <description>Chelsea Manning, klokkenluider in de WikiLeaks-zaak, gaat vanuit de gevangenis columns schrijven voor The Guardian. Dit maakte de hoofdredacteur van de Britse krant Katharine Viner gisteravond bekend op Twitter. Transvrouw Manning, die bekend werd als soldaat Bradley Manning, gaat schrijven over oorlog, gender en informatievrijheid.</description>
+      <pubDate>Wed, 11 Feb 2015 12:00:00 GMT</pubDate>
+      <author>Just Fontein</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-wikileaks/manning-vanuit-gevangenis-nieuwe-columnist-guardian~a3849172/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/7/8e900593a4d66b2dcd3630a8704354f5/2770102/399x289/2770102.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/3/7/8e900593a4d66b2dcd3630a8704354f5/2770102/399x289/2770102.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Rabobank lanceert betalen met smartphone</title>
+      <link>http://www.volkskrant.nl/binnenland/rabobank-lanceert-betalen-met-smartphone~a3849228/</link>
+      <description>Klanten van Rabobank kunnen vanaf vandaag betalen met hun telefoon aan de kassa. Rabobank is de eerste Nederlandse grootbank die dit mogelijk maakt.</description>
+      <pubDate>Wed, 11 Feb 2015 11:03:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rabobank-lanceert-betalen-met-smartphone~a3849228/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/5/2/a56a91d115bc357089b3618dce397132/2770172/399x289/2770172.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/10/5/2/a56a91d115bc357089b3618dce397132/2770172/399x289/2770172.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Hackers haalden sites Rijksoverheid uit de lucht</title>
+      <link>http://www.volkskrant.nl/binnenland/hackers-haalden-sites-rijksoverheid-uit-de-lucht~a3849132/</link>
+      <description>De storing die gisteren onder meer de website van de Rijksoverheid blokkeerde is veroorzaakt door een cyberaanval. Dat meldt het ministerie van Algemene Zaken.</description>
+      <pubDate>Wed, 11 Feb 2015 08:53:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/hackers-haalden-sites-rijksoverheid-uit-de-lucht~a3849132/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/12/5/ac2d4152185ed8173a24db69eb92d950/2769890/399x289/2769890.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/12/5/ac2d4152185ed8173a24db69eb92d950/2769890/399x289/2769890.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Meer spionage mogelijk voor inlichtingendiensten</title>
+      <link>http://www.volkskrant.nl/binnenland/meer-spionage-mogelijk-voor-inlichtingendiensten~a3848756/</link>
+      <description>De inlichtingendiensten mogen ook informatie via de kabel aftappen van een Kamermeerderheid, maar onder strikte voorwaarden en toezicht.</description>
+      <pubDate>Wed, 11 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Remco Meijer</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/meer-spionage-mogelijk-voor-inlichtingendiensten~a3848756/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/7/8522de4ba7a4ada05f9f7da44f73cdbb/2768887/399x289/2768887.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/12/7/8522de4ba7a4ada05f9f7da44f73cdbb/2768887/399x289/2768887.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Apps zijn net zo slordig als stappentellers</title>
+      <link>http://www.volkskrant.nl/tech/apps-zijn-net-zo-slordig-als-stappentellers~a3848710/</link>
+      <description>Wie overweegt een moderne stappenteller aan te schaffen, kan daarvoor evengoed een smartphone-app gebruiken. Telefoons registreren het aantal voetstappen net zo goed als de slimme armbanden van Fitbit, Jawbone of Nike. Namelijk: net niet nauwkeurig. Dit blijkt uit dinsdag gepubliceerd onderzoek in The Journal of the American Medical Association.</description>
+      <pubDate>Tue, 10 Feb 2015 20:01:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/apps-zijn-net-zo-slordig-als-stappentellers~a3848710/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/8/4/3a2dfc9d1a155a065d4cfb5824ae5abf/2768764/399x289/2768764.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/8/4/3a2dfc9d1a155a065d4cfb5824ae5abf/2768764/399x289/2768764.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Kabinet mag door met plan voor aftappen kabel, maar wel zorgvuldig</title>
+      <link>http://www.volkskrant.nl/dossier-kabinet-rutte-ii/kabinet-mag-door-met-plan-voor-aftappen-kabel-maar-wel-zorgvuldig~a3848693/</link>
+      <description>Het kabinet kan verder met zijn plan om de inlichtingendiensten AIVD en MIVD ruwe communicatiegegevens van burgers op de kabel te laten onderscheppen. Nu mogen die diensten dat nog niet, maar het kabinet vindt het hard nodig om dit wettelijk mogelijk te maken, omdat de meeste communicatie tegenwoordig via de kabel verloopt.</description>
+      <pubDate>Tue, 10 Feb 2015 18:58:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-kabinet-rutte-ii/kabinet-mag-door-met-plan-voor-aftappen-kabel-maar-wel-zorgvuldig~a3848693/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/14/6/2604b7019a1c1263dc5d9fa20ac519ff/2768736/399x289/2768736.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/14/6/2604b7019a1c1263dc5d9fa20ac519ff/2768736/399x289/2768736.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Senaat wil Opstelten horen over privacy'</title>
+      <link>http://www.volkskrant.nl/dossier-kabinet-rutte-ii/senaat-wil-opstelten-horen-over-privacy~a3848662/</link>
+      <description>Minister Ivo Opstelten (Veiligheid en Justitie) moet in de Senaat uit komen leggen hoe hij omgaat met een uitspraak van het Europese Hof van Justitie over de privacy. Dat heeft senator Tineke Strik vanavond gezegd.</description>
+      <pubDate>Tue, 10 Feb 2015 18:17:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-kabinet-rutte-ii/senaat-wil-opstelten-horen-over-privacy~a3848662/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/13/11aca0c3c25fb11236d9983a06fdfe5b/2768653/399x289/2768653.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/16/13/11aca0c3c25fb11236d9983a06fdfe5b/2768653/399x289/2768653.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Heeft Samsung de Big Brother-tv gemaakt?</title>
+      <link>http://www.volkskrant.nl/tech/heeft-samsung-de-big-brother-tv-gemaakt~a3848620/</link>
+      <description>Je moet het Samsung nageven: eindelijk een bedrijf met duidelijke gebruiksvoorwaarden. Het bedrijf maakt slimme televisies, die kijkers met hun stem kunnen bedienen. En wat staat daarover in het privacy-beleid? 'Als de door u gesproken woorden ook persoonlijke gegevens of gevoelige informatie bevatten, worden deze gegevens vastgelegd en naar een derde verzonden.' Ofwel: pas op met wat je zegt, want je weet nooit wie er meeluistert.</description>
+      <pubDate>Tue, 10 Feb 2015 16:52:00 GMT</pubDate>
+      <author>Michael Persson</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/heeft-samsung-de-big-brother-tv-gemaakt~a3848620/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/6/9/bfb78c288672ce2179cabd5e1aa5d69e/2768439/399x289/2768439.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/6/9/bfb78c288672ce2179cabd5e1aa5d69e/2768439/399x289/2768439.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>#CyberCaliphate hackt Newsweek en bedreigt Obama's</title>
+      <link>http://www.volkskrant.nl/tech/cybercaliphate-hackt-newsweek-en-bedreigt-obamas~a3848582/</link>
+      <description>Het Twitter-account van het Amerikaanse tijdschrift Newsweek is kort gehackt door de groep die zichzelf Cyber Caliphate noemt. Gedurende de hack heeft de organisatie, die sympathiseert met IS, dreigementen geuit aan de familie Obama en gevoelige informatie verspreid onder de ruim 2,5 miljoen volgers van Newsweek.</description>
+      <pubDate>Tue, 10 Feb 2015 16:05:00 GMT</pubDate>
+      <author>Pieter Hotse Smit</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/cybercaliphate-hackt-newsweek-en-bedreigt-obamas~a3848582/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/12/12/852a517ce33b1d51d4a8f95b425927ed/2768292/399x289/2768292.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/12/12/852a517ce33b1d51d4a8f95b425927ed/2768292/399x289/2768292.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Websites Rijksoverheid niet bereikbaar</title>
+      <link>http://www.volkskrant.nl/media/websites-rijksoverheid-niet-bereikbaar~a3848461/</link>
+      <description>Door een storing bij netwerk- en hostingprovider Prolocation zijn onder andere de websites van de Rijksoverheid, Telfort en GeenStijl offline, zo bevestigt een medewerker van Prolocation tegenover Tweakers.</description>
+      <pubDate>Tue, 10 Feb 2015 12:37:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/media/websites-rijksoverheid-niet-bereikbaar~a3848461/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/3/71a9d26df27aff55c61975a8fab7033f/2767758/399x289/2767758.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/3/71a9d26df27aff55c61975a8fab7033f/2767758/399x289/2767758.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Grootste overname ooit voor Canon</title>
+      <link>http://www.volkskrant.nl/economie/grootste-overname-ooit-voor-canon~a3848344/</link>
+      <description>Canon neemt het Zweedse Axis Communications over. Dat werd vandaag bekendgemaakt. Het is de grootste overname ooit voor de Japanse cameraproducent.</description>
+      <pubDate>Tue, 10 Feb 2015 08:58:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/grootste-overname-ooit-voor-canon~a3848344/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/5/9/0f2fbc956a279ba0f12f612a8d658b51/2767299/399x289/2767299.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/5/9/0f2fbc956a279ba0f12f612a8d658b51/2767299/399x289/2767299.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Happy ship' zonder deining is wereldprimeur</title>
+      <link>http://www.volkskrant.nl/tech/happy-ship-zonder-deining-is-wereldprimeur~a3848018/</link>
+      <description>Hoe hoog de golven ook zijn, de loopbrug van het nieuwe 'happy schip' van de NAM blijft altijd horizontaal. Dat maakt gaswinning op kleine velden in de Noordzee makkelijker.</description>
+      <pubDate>Tue, 10 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Peter van Ammelrooy</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/happy-ship-zonder-deining-is-wereldprimeur~a3848018/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/3/7bebff378c5fff0cfc881daff6b92e6d/2766693/399x289/2766693.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/3/7bebff378c5fff0cfc881daff6b92e6d/2766693/399x289/2766693.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'World Press Photo wordt denktank'</title>
+      <link>http://www.volkskrant.nl/tech/world-press-photo-wordt-denktank~a3847966/</link>
+      <description>Donderdag wordt de winnaar bekend van de World Press Photo 2015. Nieuwe directeur Lars Boering wil van de organisatie een internationale denktank van de fotojournalistiek maken.</description>
+      <pubDate>Tue, 10 Feb 2015 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/world-press-photo-wordt-denktank~a3847966/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/6/f1dc5ba802d2365891308cf890b17441/2766591/399x289/2766591.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/11/6/f1dc5ba802d2365891308cf890b17441/2766591/399x289/2766591.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>TomTom aangeklaagd in VS na busongeval</title>
+      <link>http://www.volkskrant.nl/economie/tomtom-aangeklaagd-in-vs-na-busongeval~a3847531/</link>
+      <description>De slachtoffers van een busongeval in de Verenigde Staten eisen voor de rechter een schadevergoeding van twee producenten van navigatieapparatuur, waaronder het Nederlandse TomTom. Volgens de aanklacht had de gps-apparatuur moeten waarschuwen voor een te laag viaduct.</description>
+      <pubDate>Mon, 09 Feb 2015 13:15:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/tomtom-aangeklaagd-in-vs-na-busongeval~a3847531/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/4/12/077fc3128f847cf439b6646fa4b53ecf/2764782/399x289/2764782.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/4/12/077fc3128f847cf439b6646fa4b53ecf/2764782/399x289/2764782.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Rusland wil Nederland spreken over uitlevering hacker</title>
+      <link>http://www.volkskrant.nl/binnenland/rusland-wil-nederland-spreken-over-uitlevering-hacker~a3847667/</link>
+      <description>Rusland wil onmiddellijk overleg met Nederland over de voorgenomen uitlevering van de Russische hacker Vladimir Drinkman aan de Verenigde Staten. Moskou heeft daar formeel om gevraagd. Dat heeft Drinkmans advocaat Bart Stapert vandaag laten weten. De Rus wordt verdacht van de diefstal van 160 miljoen creditcardgegevens.</description>
+      <pubDate>Mon, 09 Feb 2015 10:54:00 GMT</pubDate>
+      <author>Huib Modderkolk</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rusland-wil-nederland-spreken-over-uitlevering-hacker~a3847667/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/8/7/4f059f1deb68ff7fb8d6546394c6e594/2765347/399x289/2765347.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/8/7/4f059f1deb68ff7fb8d6546394c6e594/2765347/399x289/2765347.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Wagens in VS slecht beveiligd tegen hackers'</title>
+      <link>http://www.volkskrant.nl/buitenland/wagens-in-vs-slecht-beveiligd-tegen-hackers~a3847559/</link>
+      <description>Draadloze technologie in Amerikaanse voertuigen is vaak nauwelijks beveiligd tegen hackers. Daarvoor waarschuwt de Amerikaanse senator Edward Markey in een rapport dat vandaag wordt gepubliceerd, meldt The New York Times.</description>
+      <pubDate>Mon, 09 Feb 2015 07:04:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/wagens-in-vs-slecht-beveiligd-tegen-hackers~a3847559/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/05131781f0ddad039468c2cfba6423ac/2764870/399x289/2764870.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/7/10/05131781f0ddad039468c2cfba6423ac/2764870/399x289/2764870.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>De Drie Apps van de Week: Duolir, Shadowmatic en Camu</title>
+      <link>http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-duolir-shadowmatic-en-camu~a3845288/</link>
+      <description>Volkskrant.nl zet elke zondag de leukste, handigste en meest informatieve apps voor u op een rijtje. Deze week: buitenlandstalige boeken laten vertalen, spelen met schaduwen en selfies maken.</description>
+      <pubDate>Sun, 08 Feb 2015 06:00:00 GMT</pubDate>
+      <author>Thomas van der Kolk</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/de-drie-apps-van-de-week-duolir-shadowmatic-en-camu~a3845288/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/8/0/35c9e5a169278b488d8857dda0675c23/2758020/399x289/2758020.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/8/0/35c9e5a169278b488d8857dda0675c23/2758020/399x289/2758020.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Britse schapen krijgen Wi-Fi</title>
+      <link>http://www.volkskrant.nl/tech/britse-schapen-krijgen-wi-fi~a3846973/</link>
+      <description>In Engeland zijn wetenschappers begonnen met een experiment waarbij schapen worden uitgerust met Wi-Fi-sensoren. Hiermee wordt het onder andere makkelijker voor boeren om hun weggelopen schapen terug te vinden. Dat meldt de BBC.</description>
+      <pubDate>Sat, 07 Feb 2015 20:41:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/britse-schapen-krijgen-wi-fi~a3846973/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/3/10/2bb21a718cb58e9294d4417a07da693a/2762860/399x289/2762860.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/13/3/10/2bb21a718cb58e9294d4417a07da693a/2762860/399x289/2762860.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Koenders: 'Internet moet veiliger'</title>
+      <link>http://www.volkskrant.nl/tech/koenders-internet-moet-veiliger~a3846866/</link>
+      <description>Er moet meer gedaan worden om de veiligheid van het internet te vergroten en cybercrime te voorkomen. Daarom wordt op de komende internationale conferentie over het internet in Den Haag een nieuw initiatief gelanceerd voor het vergroten van de capaciteit die hiervoor nodig is.</description>
+      <pubDate>Sat, 07 Feb 2015 14:08:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/tech/koenders-internet-moet-veiliger~a3846866/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/3/f8c34db56491e699e18df40aabf5c1e6/2762148/399x289/2762148.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/3/f8c34db56491e699e18df40aabf5c1e6/2762148/399x289/2762148.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Weten hoe veel je in bed woelt</title>
+      <link>http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</link>
+      <description>De stappenteller van Fitbit meet nauwkeurig je nachtrust en ongeveer je beweging.</description>
+      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Bard van de Weijer</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/weten-hoe-veel-je-in-bed-woelt~a3846272/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/7/2/6/db6b0022f57061374affe27badb2e80f/2760156/399x289/2760156.jpeg" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
+
