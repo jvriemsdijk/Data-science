@@ -6,13 +6,35 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 15:12:37 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 15:12:37 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 19:52:23 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 19:52:23 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>Waarom is één biertje nooit genoeg?</title>
+      <link>http://www.volkskrant.nl/dossier-gezond/waarom-is-een-biertje-nooit-genoeg~a3851945/</link>
+      <description>De meesten van ons kennen het gevoel wel na een paar slokken bier of wijn. Terwijl het eerste glas nog niet leeg is, hebben we al zin in het volgende. (Goed, en misschien ook al een beetje in dat erna.) En dat is gek, want voor het alcoholische intermezzo begon, besloten we nog wijselijk dat we ditmaal toch echt maar één glas zouden drinken.Wat gebeurt er in ons lichaam als we drinken en waarom zorgt het drinken van alcohol voor meer zin in alcohol?Dat is de schuld van ons reptielenbrein, waar alle automatische processen zich afspelen, zegt Sigrid Sijthoff. 'Alcohol schroeft zich daar als het ware vast, en zo wordt drinken, of doordrinken, een automatisme.'Om precies te zijn komt het allemaal door het stofje dopamine. Dat regeert het beloningssysteem in onze hersenen. Alcohol zorgt voor de afgifte van dopamine en daar voelen we ons lekker en ontspannen door. Maar mettertijd ontstaat er gewenning en heb je steeds meer alcohol nodig om hetzelfde effect te bereiken.</description>
+      <pubDate>Sun, 15 Feb 2015 18:26:00 GMT</pubDate>
+      <author>Ianthe Sahadat</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-gezond/waarom-is-een-biertje-nooit-genoeg~a3851945/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/2/12/38a7b95269d8c3b0a34199606f4187dd/2779332/399x289/2779332.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/2/12/38a7b95269d8c3b0a34199606f4187dd/2779332/399x289/2779332.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>VS staan genetisch gemodificeerde appels toe</title>
+      <link>http://www.volkskrant.nl/economie/vs-staan-genetisch-gemodificeerde-appels-toe~a3851949/</link>
+      <description>'Absoluut onnodig' volgens de critici, 'potentieel gevaarlijk' bovendien, maar sinds dit weekend toch toegestaan in de Verenigde Staten: genetisch gemodificeerde appels die na het opensnijden langer hun frisse kleur behouden.</description>
+      <pubDate>Sun, 15 Feb 2015 15:29:00 GMT</pubDate>
+      <author>Jarl Van der Ploeg</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/economie/vs-staan-genetisch-gemodificeerde-appels-toe~a3851949/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/14/318ad0a117ffc1b6e37e779ec8fc04f8/2778944/399x289/2778944.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/5/14/318ad0a117ffc1b6e37e779ec8fc04f8/2778944/399x289/2778944.jpeg" />
+      </media:content>
+    </item>
     <item>
       <title>Schippers over kritiek PvdA-senator: zorgstelsel wel solidair</title>
       <link>http://www.volkskrant.nl/dossier-zorg/schippers-over-kritiek-pvda-senator-zorgstelsel-wel-solidair~a3851560/</link>
@@ -56,6 +78,16 @@
       </media:content>
     </item>
     <item>
+      <title>Beeld van de week</title>
+      <link>http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</link>
+      <description>Een bijzonder plaatje van een zebravis: de roze delen geven actieve neuronen in het zenuwstelsel van de vis aan. Het is voor het eerst dat wetenschappers een techniek vonden om in een momentopname grote groepen actieve neuronen te laten zien: een eiwit dat verschiet van kleur als een neuron actief wordt. Zo konden de onderzoekers de breinactiviteit van levende zebra-visjes onder verschillende omstandigheden vergelijken. Dat kan helpen om complex gedrag te begrijpen, schrijven ze in Science.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg" />
+      </media:content>
+    </item>
+    <item>
       <title>De toverlamp die je op afstand kunt dimmen</title>
       <link>http://www.volkskrant.nl/dossier-de-maakbare-wereld/de-toverlamp-die-je-op-afstand-kunt-dimmen~a3850970/</link>
       <description>Het is er toch van gekomen, Ans Hekkenberg heeft een Arduino aangeschaft; een wondermiddel om op afstand de lichsterkte van lampen te regelen.</description>
@@ -88,16 +120,6 @@
       </media:content>
     </item>
     <item>
-      <title>Beeld van de week</title>
-      <link>http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</link>
-      <description>Een bijzonder plaatje van een zebravis: de roze delen geven actieve neuronen in het zenuwstelsel van de vis aan. Het is voor het eerst dat wetenschappers een techniek vonden om in een momentopname grote groepen actieve neuronen te laten zien: een eiwit dat verschiet van kleur als een neuron actief wordt. Zo konden de onderzoekers de breinactiviteit van levende zebra-visjes onder verschillende omstandigheden vergelijken. Dat kan helpen om complex gedrag te begrijpen, schrijven ze in Science.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/13/c1209108f1b0d81bb57f76eaff0fd909/2772703/399x289/2772703.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Perovskiet: mogelijk een nieuw wondermateriaal voor zonnecellen</title>
       <link>http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</link>
       <description>Een in 1839 al ontdekt kristal vormt, naar nu blijkt, een uitstekende en spotgoedkope basis voor zonnecellen. Internationaal een hype: het regent wetenschappelijke artikelen erover. Nu zijn Nederlandse labs er ook opgedoken.</description>
@@ -119,17 +141,6 @@
       </media:content>
     </item>
     <item>
-      <title>'Jongens zijn losser over seks gaan denken'</title>
-      <link>http://www.volkskrant.nl/dossier-belminuut/jongens-zijn-losser-over-seks-gaan-denken~a3850028/</link>
-      <description>Annemarie van Oosten promoveerde deze week aan de Universiteit van Amsterdam op het effect van seks in de media op jongeren.</description>
-      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
-      <author>Tonie Mudde</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-belminuut/jongens-zijn-losser-over-seks-gaan-denken~a3850028/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Gezondheidsapps zijn goudmijn</title>
       <link>http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</link>
       <description>De gegevens uit de populaire gezondheidsapps zijn doorgaans persoonlijk, gedetailleerd en gevoelig. Dat maakt ze zeer waardevol. Slechts weinig gebruikers zijn zich bewust van de risico's.</description>
@@ -138,6 +149,17 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Jongens zijn losser over seks gaan denken'</title>
+      <link>http://www.volkskrant.nl/dossier-belminuut/jongens-zijn-losser-over-seks-gaan-denken~a3850028/</link>
+      <description>Annemarie van Oosten promoveerde deze week aan de Universiteit van Amsterdam op het effect van seks in de media op jongeren.</description>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
+      <author>Tonie Mudde</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-belminuut/jongens-zijn-losser-over-seks-gaan-denken~a3850028/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg" />
       </media:content>
     </item>
     <item>
@@ -413,28 +435,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/hip-record-166-stations-in-ruim-15-uur~a3848730/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/7/2c2edb6d1a6e1f6cfae82a3890b99253/2768827/399x289/2768827.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/7/2c2edb6d1a6e1f6cfae82a3890b99253/2768827/399x289/2768827.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Heel Holland Mediteert</title>
-      <link>http://www.volkskrant.nl/leven/heel-holland-mediteert~a3848743/</link>
-      <description>Vroeger zaten Nederlanders in de kerk, in de 21ste eeuw vertoeven ze steeds vaker met gekruiste benen in meditatieruimtes. 'Een, twee, drie - wat een rotvergadering vrijdag - een, twee - kwam daar iets binnen op mijn telefoon?'</description>
-      <pubDate>Wed, 11 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Olaf Tempelman</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/leven/heel-holland-mediteert~a3848743/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/15/10/6e9dd3f93725cd730d98891b4dc1502a/2768890/399x289/2768890.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/15/10/6e9dd3f93725cd730d98891b4dc1502a/2768890/399x289/2768890.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Reclame Code Commissie vindt zorgspotjes te rooskleurig</title>
-      <link>http://www.volkskrant.nl/dossier-zorg/reclame-code-commissie-vindt-zorgspotjes-te-rooskleurig~a3848642/</link>
-      <description>De overheidsspotjes over de veranderingen in de zorg zijn te ongenuanceerd en geven een te rooskleurig beeld van de nieuwe regels. Dat heeft de Reclame Code Commissie geoordeeld na een klacht van vakbond FNV. Het ministerie van Volksgezondheid gaat in beroep tegen de uitspraak.</description>
-      <pubDate>Tue, 10 Feb 2015 21:15:00 GMT</pubDate>
-      <author>Jeroen Visser</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-zorg/reclame-code-commissie-vindt-zorgspotjes-te-rooskleurig~a3848642/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/14/1/15c640477973917b413ae3a1f8d64105/2768566/399x289/2768566.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/14/1/15c640477973917b413ae3a1f8d64105/2768566/399x289/2768566.jpeg" />
       </media:content>
     </item>
   </channel>
