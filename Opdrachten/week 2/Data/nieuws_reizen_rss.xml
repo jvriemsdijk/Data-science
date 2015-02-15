@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 21:24:19 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 21:24:19 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 22:32:45 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 22:32:45 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
@@ -129,6 +129,17 @@
       </media:content>
     </item>
     <item>
+      <title>Manchester nieuwe stijl bruist van creativiteit</title>
+      <link>http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</link>
+      <description>Manchester is 'vieze industriestad' af. Oude gebouwen zijn opgeknapt en nieuwe architectuur laat de stad blinken. Bibliotheken, musea en culturele centra openen of heropenen. 'We hebben meer dan Manchester United en Manchester City.'</description>
+      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Eric Berg</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg" />
+      </media:content>
+    </item>
+    <item>
       <title>Ontdek de schoonheid in de lelijkheid van Keulen</title>
       <link>http://www.volkskrant.nl/reizen/ontdek-de-schoonheid-in-de-lelijkheid-van-keulen~a3845354/</link>
       <description>Wie kent er beter de weg, dan de mensen die er wonen? Hier de best places in town, volgens echte Keulenaars.</description>
@@ -149,17 +160,6 @@ Op internet adviseren reisbloggers die graag rekenen: kies altijd voor lokale va
       <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
       <author>Noël van Bemmel</author>
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-geheimtip/pinnen-in-het-buitenland-wat-moet-je-doen~a3845294/</guid>
-    </item>
-    <item>
-      <title>Manchester nieuwe stijl bruist van creativiteit</title>
-      <link>http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</link>
-      <description>Manchester is 'vieze industriestad' af. Oude gebouwen zijn opgeknapt en nieuwe architectuur laat de stad blinken. Bibliotheken, musea en culturele centra openen of heropenen. 'We hebben meer dan Manchester United en Manchester City.'</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Eric Berg</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg" />
-      </media:content>
     </item>
     <item>
       <title>Spetteren op St. Maarten</title>
