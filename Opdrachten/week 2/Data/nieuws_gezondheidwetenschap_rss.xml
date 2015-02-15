@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 22:32:32 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 22:32:32 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 23:26:17 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 23:26:17 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
@@ -78,6 +78,17 @@
       </media:content>
     </item>
     <item>
+      <title>Als machines er alleen voor staan</title>
+      <link>http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</link>
+      <description>Stel dat de mens bij toverslag verdwijnt: blijven de machines dan draaien? Welnee, zeggen alle experts. Maar dat is nu. Over dolende drones, doorploegende grasmaaiers en fabrieken zonder stekker.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Maarten Keulemans</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
+      </media:content>
+    </item>
+    <item>
       <title>Beeld van de week</title>
       <link>http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</link>
       <description>Een bijzonder plaatje van een zebravis: de roze delen geven actieve neuronen in het zenuwstelsel van de vis aan. Het is voor het eerst dat wetenschappers een techniek vonden om in een momentopname grote groepen actieve neuronen te laten zien: een eiwit dat verschiet van kleur als een neuron actief wordt. Zo konden de onderzoekers de breinactiviteit van levende zebra-visjes onder verschillende omstandigheden vergelijken. Dat kan helpen om complex gedrag te begrijpen, schrijven ze in Science.</description>
@@ -127,17 +138,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-de-maakbare-wereld/de-toverlamp-die-je-op-afstand-kunt-dimmen~a3850970/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/2/13/5e645b2e1666de6fb84d6ffb0823fd65/2775643/399x289/2775643.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/2/13/5e645b2e1666de6fb84d6ffb0823fd65/2775643/399x289/2775643.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Als machines er alleen voor staan</title>
-      <link>http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</link>
-      <description>Stel dat de mens bij toverslag verdwijnt: blijven de machines dan draaien? Welnee, zeggen alle experts. Maar dat is nu. Over dolende drones, doorploegende grasmaaiers en fabrieken zonder stekker.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Maarten Keulemans</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
       </media:content>
     </item>
     <item>

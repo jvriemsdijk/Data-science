@@ -6,19 +6,30 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 22:33:04 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 22:33:04 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 23:26:04 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 23:26:04 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
     <item>
-      <title>'Video IS toont onthoofding 21 koptische christenen'</title>
-      <link>http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</link>
-      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd.</description>
+      <title>Bende breekt records met cyberkraak banken</title>
+      <link>http://www.volkskrant.nl/media/bende-breekt-records-met-cyberkraak-banken~a3852082/</link>
+      <description>Een internationale cyberbende heeft een van de grootste bankovervallen aller tijden gepleegd. Door honderd banken verspreid over de wereld te hacken hebben ze de afgelopen twee jaar tussen 300 miljoen en één miljard dollar buitgemaakt.</description>
+      <pubDate>Sun, 15 Feb 2015 22:47:00 GMT</pubDate>
+      <author>Michael Persson</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/media/bende-breekt-records-met-cyberkraak-banken~a3852082/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/3/3/2618241b0951e4bb3ae94d90d1e65c46/2779758/399x289/2779758.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/3/3/2618241b0951e4bb3ae94d90d1e65c46/2779758/399x289/2779758.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Egypte zweert wraak na onthoofding 21 koptische christenen door IS</title>
+      <link>http://www.volkskrant.nl/buitenland/egypte-zweert-wraak-na-onthoofding-21-koptische-christenen-door-is~a3852006/</link>
+      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd. De Egyptische president al-Sisi liet in een verklaring weten hun dood te zullen wreken 'op een manier en tijdstip dat Egypte zelf kiest'.</description>
       <pubDate>Sun, 15 Feb 2015 19:53:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</guid>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/egypte-zweert-wraak-na-onthoofding-21-koptische-christenen-door-is~a3852006/</guid>
       <media:content type="image/png" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png" />
       </media:content>
@@ -400,17 +411,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/gigantische-ijsvlakte-antarctica-staat-op-breken~a3851188/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/16/4/ccb667ed5ddcf998262b43582093d5cd/2776354/399x289/2776354.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/16/4/ccb667ed5ddcf998262b43582093d5cd/2776354/399x289/2776354.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Feministische pornomaakster bekritiseert 50 shades</title>
-      <link>http://www.volkskrant.nl/leven/feministische-pornomaakster-bekritiseert-50-shades~a3851014/</link>
-      <description>Vijftig Tinten Grijs? Ouderwets, beledigend en saai, zegt Jacky St. James, pornofilmschrijfster en -regisseur. Want daarin draait het weer helemaal om de man.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Lisa van der Velden</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/leven/feministische-pornomaakster-bekritiseert-50-shades~a3851014/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/7/11/a2dbb4a5a1463743efe5d21cb29b3dc1/2775971/399x289/2775971.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/7/11/a2dbb4a5a1463743efe5d21cb29b3dc1/2775971/399x289/2775971.jpeg" />
       </media:content>
     </item>
   </channel>

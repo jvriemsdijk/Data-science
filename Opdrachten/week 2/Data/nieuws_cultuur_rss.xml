@@ -6,13 +6,34 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 22:32:19 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 22:32:19 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 23:25:17 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 23:25:17 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>Bende breekt records met cyberkraak banken</title>
+      <link>http://www.volkskrant.nl/media/bende-breekt-records-met-cyberkraak-banken~a3852082/</link>
+      <description>Een internationale cyberbende heeft een van de grootste bankovervallen aller tijden gepleegd. Door honderd banken verspreid over de wereld te hacken hebben ze de afgelopen twee jaar tussen 300 miljoen en één miljard dollar buitgemaakt.</description>
+      <pubDate>Sun, 15 Feb 2015 22:47:00 GMT</pubDate>
+      <author>Michael Persson</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/media/bende-breekt-records-met-cyberkraak-banken~a3852082/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/3/3/2618241b0951e4bb3ae94d90d1e65c46/2779758/399x289/2779758.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/3/3/2618241b0951e4bb3ae94d90d1e65c46/2779758/399x289/2779758.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Grange pakt slalomgoud na uitglijder favoriet Hirscher</title>
+      <link>http://www.volkskrant.nl/sport/grange-pakt-slalomgoud-na-uitglijder-favoriet-hirscher~a3852092/</link>
+      <description>De Fransman Jean-Baptiste Grange is verrassend wereldkampioen op de slalom geworden. In Vail was hij na twee manches de beste. Grange profiteerde van een uitglijder van titelverdediger Marcel Hirscher. De Oostenrijker met Nederlandse roots finishte daardoor niet.</description>
+      <pubDate>Sun, 15 Feb 2015 22:36:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/sport/grange-pakt-slalomgoud-na-uitglijder-favoriet-hirscher~a3852092/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/5/5/c92dd41b1a75c6645f86658666caa983/2779760/399x289/2779760.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/5/5/c92dd41b1a75c6645f86658666caa983/2779760/399x289/2779760.jpeg" />
+      </media:content>
+    </item>
     <item>
       <title>Nederland geen doelwit wereldwijde bankhack</title>
       <link>http://www.volkskrant.nl/binnenland/nederland-geen-doelwit-wereldwijde-bankhack~a3852071/</link>
@@ -45,11 +66,11 @@
       </media:content>
     </item>
     <item>
-      <title>'Video IS toont onthoofding 21 koptische christenen'</title>
-      <link>http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</link>
-      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd.</description>
+      <title>Egypte zweert wraak na onthoofding 21 koptische christenen door IS</title>
+      <link>http://www.volkskrant.nl/buitenland/egypte-zweert-wraak-na-onthoofding-21-koptische-christenen-door-is~a3852006/</link>
+      <description>Terreurgroep Islamitische Staat (IS) heeft vandaag een video gepubliceerd waarin de executie van 21 koptische christenen uit Egypte te zien is. Dat melden verschillende Arabische media. De kopten zouden zijn ontvoerd in Egypte en onthoofd op een strand in Libië. De beelden zijn nog niet geverifieerd. De Egyptische president al-Sisi liet in een verklaring weten hun dood te zullen wreken 'op een manier en tijdstip dat Egypte zelf kiest'.</description>
       <pubDate>Sun, 15 Feb 2015 19:53:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/video-is-toont-onthoofding-21-koptische-christenen~a3852006/</guid>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/egypte-zweert-wraak-na-onthoofding-21-koptische-christenen-door-is~a3852006/</guid>
       <media:content type="image/png" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/16/3/67abe850d99b1bd414246b208782be5a/2779533/399x289/2779533.png" />
       </media:content>
@@ -394,26 +415,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/sport/koelizjnikov-pakt-goud-op-500-meter-zilver-voor-mulder~a3851907/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/2/0/a0f25e26c0e3cd62fdecd2918833af8f/2778720/399x289/2778720.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/2/0/a0f25e26c0e3cd62fdecd2918833af8f/2778720/399x289/2778720.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Veertig landen bijeen op conferentie VN-vredesmissies in Amsterdam</title>
-      <link>http://www.volkskrant.nl/binnenland/veertig-landen-bijeen-op-conferentie-vn-vredesmissies-in-amsterdam~a3851909/</link>
-      <description>Vertegenwoordigers van meer dan veertig Europese landen komen maandag en dinsdag op uitnodiging van minister Bert Koenders (Buitenlandse Zaken) bijeen op een conferentie in Amsterdam om te praten over VN-vredesmissies. Doel is om te bezien hoe Europese landen meer en efficiënter kunnen bijdragen aan missies van de Verenigde Naties. Koenders sluit de conferentie op dinsdag af.</description>
-      <pubDate>Sun, 15 Feb 2015 14:12:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/veertig-landen-bijeen-op-conferentie-vn-vredesmissies-in-amsterdam~a3851909/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/5/fc4cfd260de4f6b36ad1e10709dcc004/2778740/399x289/2778740.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/5/5/fc4cfd260de4f6b36ad1e10709dcc004/2778740/399x289/2778740.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Petkovic pakt tennistitel zonder te spelen</title>
-      <link>http://www.volkskrant.nl/sport/petkovic-pakt-tennistitel-zonder-te-spelen~a3851904/</link>
-      <description>Andrea Petkovic heeft vandaag zonder in actie te hoeven komen het tennistoernooi van Antwerpen gewonnen. De Duitse tennisster profiteerde van een blessure bij Carla Suarez Navarro. De Spaanse opponente van Petkovic werd wakker met een pijnlijke nek en meldde zich af.</description>
-      <pubDate>Sun, 15 Feb 2015 13:53:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/sport/petkovic-pakt-tennistitel-zonder-te-spelen~a3851904/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/12/6/6e851dd21477a916d42af49f7646a6a0/2778696/399x289/2778696.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/12/6/6e851dd21477a916d42af49f7646a6a0/2778696/399x289/2778696.jpeg" />
       </media:content>
     </item>
   </channel>

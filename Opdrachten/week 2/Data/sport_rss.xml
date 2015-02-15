@@ -6,13 +6,23 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 22:32:28 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 22:32:28 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2015 23:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 23:26:00 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>Grange pakt slalomgoud na uitglijder favoriet Hirscher</title>
+      <link>http://www.volkskrant.nl/sport/grange-pakt-slalomgoud-na-uitglijder-favoriet-hirscher~a3852092/</link>
+      <description>De Fransman Jean-Baptiste Grange is verrassend wereldkampioen op de slalom geworden. In Vail was hij na twee manches de beste. Grange profiteerde van een uitglijder van titelverdediger Marcel Hirscher. De Oostenrijker met Nederlandse roots finishte daardoor niet.</description>
+      <pubDate>Sun, 15 Feb 2015 22:36:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/sport/grange-pakt-slalomgoud-na-uitglijder-favoriet-hirscher~a3852092/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/5/5/c92dd41b1a75c6645f86658666caa983/2779760/399x289/2779760.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/3/5/5/c92dd41b1a75c6645f86658666caa983/2779760/399x289/2779760.jpeg" />
+      </media:content>
+    </item>
     <item>
       <title>Inzet Veltman onzeker voor duel met Legia</title>
       <link>http://www.volkskrant.nl/sport/inzet-veltman-onzeker-voor-duel-met-legia~a3852011/</link>
@@ -401,16 +411,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/sport/nederlandse-duels-op-slotdag-wk-afstanden~a3851713/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/6/10/1b05fa1da3225ed70ff3d851d7c32349/2777755/399x289/2777755.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/6/10/1b05fa1da3225ed70ff3d851d7c32349/2777755/399x289/2777755.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Real Madrid met 2-0 voorbij Deportivo</title>
-      <link>http://www.volkskrant.nl/sport/real-madrid-met-2-0-voorbij-deportivo~a3851701/</link>
-      <description>Real Madrid heeft de koppositie in de Spaanse Primera División verstevigd met een thuiszege op Deportivo la Coruña. In Estadio Santiago Bernabéu werd het 2-0 door goals van Isco en Karim Benzema.</description>
-      <pubDate>Sat, 14 Feb 2015 19:08:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/sport/real-madrid-met-2-0-voorbij-deportivo~a3851701/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/13/2/d1eedc9f083a85e367056fc7deb81ccc/2777762/399x289/2777762.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/13/2/d1eedc9f083a85e367056fc7deb81ccc/2777762/399x289/2777762.jpeg" />
       </media:content>
     </item>
   </channel>
