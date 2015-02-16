@@ -6,13 +6,35 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 23:26:17 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 23:26:17 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2015 10:26:46 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2015 10:26:46 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>In VS wordt de lucht alleen maar droger en heter</title>
+      <link>http://www.volkskrant.nl/wetenschap/in-vs-wordt-de-lucht-alleen-maar-droger-en-heter~a3852095/</link>
+      <description>Versterkt door de opwarming van de aarde wordt het in het westen en midden van de VS mogelijk tientallen jaren extreem droog.</description>
+      <pubDate>Mon, 16 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Cor Speksnijder</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/in-vs-wordt-de-lucht-alleen-maar-droger-en-heter~a3852095/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/10/6/1d5e832e032d150589d6636f4ff88be8/2779476/399x289/2779476.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/10/6/1d5e832e032d150589d6636f4ff88be8/2779476/399x289/2779476.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Studenten weigeren bezetting van gebouw UvA te beëindigen</title>
+      <link>http://www.volkskrant.nl/wetenschap/studenten-weigeren-bezetting-van-gebouw-uva-te-beeindigen~a3852051/</link>
+      <description>De studenten die het Bungehuis aan de Spuistraat in Amsterdam sinds vrijdagmorgen bezet houden, hebben zondag geweigerd de bezetting te beëindigen en uit te wijken naar een ander leegstaand gebouw van de Universiteit van Amsterdam. Ze negeren daarmee het aanbod van het universiteitsbestuur om 'de dialoog aan te gaan' in BG5 op het Binnengasthuisterrein.</description>
+      <pubDate>Mon, 16 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Peter de Graaf</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/studenten-weigeren-bezetting-van-gebouw-uva-te-beeindigen~a3852051/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/2/4/36c0bcac0ec6241268c0e24c5f3fc7cf/2779519/399x289/2779519.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/2/4/36c0bcac0ec6241268c0e24c5f3fc7cf/2779519/399x289/2779519.jpeg" />
+      </media:content>
+    </item>
     <item>
       <title>Waarom is één biertje nooit genoeg?</title>
       <link>http://www.volkskrant.nl/dossier-gezond/waarom-is-een-biertje-nooit-genoeg~a3851945/</link>
@@ -78,17 +100,6 @@
       </media:content>
     </item>
     <item>
-      <title>Als machines er alleen voor staan</title>
-      <link>http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</link>
-      <description>Stel dat de mens bij toverslag verdwijnt: blijven de machines dan draaien? Welnee, zeggen alle experts. Maar dat is nu. Over dolende drones, doorploegende grasmaaiers en fabrieken zonder stekker.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Maarten Keulemans</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Beeld van de week</title>
       <link>http://www.volkskrant.nl/wetenschap/beeld-van-de-week~a3850049/</link>
       <description>Een bijzonder plaatje van een zebravis: de roze delen geven actieve neuronen in het zenuwstelsel van de vis aan. Het is voor het eerst dat wetenschappers een techniek vonden om in een momentopname grote groepen actieve neuronen te laten zien: een eiwit dat verschiet van kleur als een neuron actief wordt. Zo konden de onderzoekers de breinactiviteit van levende zebra-visjes onder verschillende omstandigheden vergelijken. Dat kan helpen om complex gedrag te begrijpen, schrijven ze in Science.</description>
@@ -107,17 +118,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/perovskiet-mogelijk-een-nieuw-wondermateriaal-voor-zonnecellen~a3850863/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/11/3/9b1464b01d06a15023a13b9a68a17e19/2775108/399x289/2775108.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Chemopatiënten kweken stiekem cannabis</title>
-      <link>http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</link>
-      <description>Duizenden ernstig zieke Nederlanders kunnen bij de apotheek 'staatswiet' krijgen. Die werkt bij veel patiënten niet goed. Sommigen telen daarom zelf wiet. Ook Rudolf Hillebrand. Tot de politie kwam.</description>
-      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Ellen de Visser</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg" />
       </media:content>
     </item>
     <item>
@@ -141,14 +141,25 @@
       </media:content>
     </item>
     <item>
-      <title>Gezondheidsapps zijn goudmijn</title>
-      <link>http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</link>
-      <description>De gegevens uit de populaire gezondheidsapps zijn doorgaans persoonlijk, gedetailleerd en gevoelig. Dat maakt ze zeer waardevol. Slechts weinig gebruikers zijn zich bewust van de risico's.</description>
-      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
-      <author>Hidde Boersma</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg" />
+      <title>Als machines er alleen voor staan</title>
+      <link>http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</link>
+      <description>Stel dat de mens bij toverslag verdwijnt: blijven de machines dan draaien? Welnee, zeggen alle experts. Maar dat is nu. Over dolende drones, doorploegende grasmaaiers en fabrieken zonder stekker.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Maarten Keulemans</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/als-machines-er-alleen-voor-staan~a3850949/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/11/8/d16ad2575fdf9cce2881e18fe26807b9/2774768/399x289/2774768.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Chemopatiënten kweken stiekem cannabis</title>
+      <link>http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</link>
+      <description>Duizenden ernstig zieke Nederlanders kunnen bij de apotheek 'staatswiet' krijgen. Die werkt bij veel patiënten niet goed. Sommigen telen daarom zelf wiet. Ook Rudolf Hillebrand. Tot de politie kwam.</description>
+      <pubDate>Sat, 14 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Ellen de Visser</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/chemopatienten-kweken-stiekem-cannabis~a3851076/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/0/7/e3012e3458c7015e0a49f82187b60eeb/2776117/399x289/2776117.jpeg" />
       </media:content>
     </item>
     <item>
@@ -160,6 +171,17 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-belminuut/jongens-zijn-losser-over-seks-gaan-denken~a3850028/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/18/10/4/28aa0053e957ac5ae9280084aca35a1c/2772574/399x289/2772574.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Gezondheidsapps zijn goudmijn</title>
+      <link>http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</link>
+      <description>De gegevens uit de populaire gezondheidsapps zijn doorgaans persoonlijk, gedetailleerd en gevoelig. Dat maakt ze zeer waardevol. Slechts weinig gebruikers zijn zich bewust van de risico's.</description>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 GMT</pubDate>
+      <author>Hidde Boersma</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/gezondheidsapps-zijn-goudmijn~a3851052/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/2/12/14/96b3df240cd3ebccd3007b41df8c8889/2775959/399x289/2775959.jpeg" />
       </media:content>
     </item>
     <item>
@@ -413,28 +435,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/muziek/viool-muteerde-tot-krachtiger-instrument~a3848729/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/12/1/e138bf909d41fadba6c52b9b68115346/2768836/399x289/2768836.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/4/12/1/e138bf909d41fadba6c52b9b68115346/2768836/399x289/2768836.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Hip' record: 166 stations in ruim 15 uur</title>
-      <link>http://www.volkskrant.nl/wetenschap/hip-record-166-stations-in-ruim-15-uur~a3848730/</link>
-      <description>De Nederlandse wiskunde-studente Loes Knoben bezoekt alle Berlijnse metrostations in recordtijd</description>
-      <pubDate>Wed, 11 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Rineke Voogt</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/wetenschap/hip-record-166-stations-in-ruim-15-uur~a3848730/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/7/2c2edb6d1a6e1f6cfae82a3890b99253/2768827/399x289/2768827.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/14/3/7/2c2edb6d1a6e1f6cfae82a3890b99253/2768827/399x289/2768827.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Heel Holland Mediteert</title>
-      <link>http://www.volkskrant.nl/leven/heel-holland-mediteert~a3848743/</link>
-      <description>Vroeger zaten Nederlanders in de kerk, in de 21ste eeuw vertoeven ze steeds vaker met gekruiste benen in meditatieruimtes. 'Een, twee, drie - wat een rotvergadering vrijdag - een, twee - kwam daar iets binnen op mijn telefoon?'</description>
-      <pubDate>Wed, 11 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Olaf Tempelman</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/leven/heel-holland-mediteert~a3848743/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/15/10/6e9dd3f93725cd730d98891b4dc1502a/2768890/399x289/2768890.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/15/10/6e9dd3f93725cd730d98891b4dc1502a/2768890/399x289/2768890.jpeg" />
       </media:content>
     </item>
   </channel>

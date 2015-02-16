@@ -6,13 +6,24 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 23:25:26 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 23:25:26 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2015 10:27:11 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2015 10:27:11 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
       <link>http://www.volkskrant.nl</link>
     </image>
+    <item>
+      <title>VVD'ers hebben last van 'neerwaartse jaloezie'</title>
+      <link>http://www.volkskrant.nl/dossier-commentaar/vvders-hebben-last-van-neerwaartse-jaloezie~a3852017/</link>
+      <description>De liberalen laten het belang van bestuurlijke integriteit maar moeizaam tot zich doordringen.</description>
+      <pubDate>Mon, 16 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Hans Wansink</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-commentaar/vvders-hebben-last-van-neerwaartse-jaloezie~a3852017/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/4/6/07aefd71685c79fa5e1c6bf95adf4c87/2779521/399x289/2779521.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/11/4/6/07aefd71685c79fa5e1c6bf95adf4c87/2779521/399x289/2779521.jpeg" />
+      </media:content>
+    </item>
     <item>
       <title>Veertig landen bijeen op conferentie VN-vredesmissies in Amsterdam</title>
       <link>http://www.volkskrant.nl/binnenland/veertig-landen-bijeen-op-conferentie-vn-vredesmissies-in-amsterdam~a3851909/</link>
@@ -35,10 +46,10 @@
     </item>
     <item>
       <title>'NOS mijdt ouderenthema's tijdens verkiezingsdebat'</title>
-      <link>http://www.volkskrant.nl/politiek/nos-mijdt-ouderenthemas-tijdens-verkiezingsdebat~a3851847/</link>
+      <link>http://www.volkskrant.nl/binnenland/nos-mijdt-ouderenthemas-tijdens-verkiezingsdebat~a3851847/</link>
       <description>50PLUS-oprichter Jan Nagel verwijt de NOS dat bij verkiezingsdebatten voor de Provinciale Statenverkiezingen van 18 maart thema's als koopkracht van ouderen en het pensioenstelsel worden gemeden.</description>
       <pubDate>Sun, 15 Feb 2015 10:22:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/politiek/nos-mijdt-ouderenthemas-tijdens-verkiezingsdebat~a3851847/</guid>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/nos-mijdt-ouderenthemas-tijdens-verkiezingsdebat~a3851847/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/0/5/77eb503cbb0f555a88b39253139a48f4/2778395/399x289/2778395.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/0/5/77eb503cbb0f555a88b39253139a48f4/2778395/399x289/2778395.jpeg" />
       </media:content>
@@ -127,6 +138,16 @@
       </media:content>
     </item>
     <item>
+      <title>Rutte: garantie geen amnestie voor daders MH17 is 'keihard'</title>
+      <link>http://www.volkskrant.nl/binnenland/rutte-garantie-geen-amnestie-voor-daders-mh17-is-keihard~a3850403/</link>
+      <description>De garantie van de Oekraïense president Petro Porosjenko dat daders en verantwoordelijken voor het neerhalen van vlucht MH17 vervolging niet zullen ontlopen, is 'keihard'. Dat zei premier Mark Rutte vanavond in Brussel nadat hij de president eerder die dag daar had ontmoet.</description>
+      <pubDate>Thu, 12 Feb 2015 22:55:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rutte-garantie-geen-amnestie-voor-daders-mh17-is-keihard~a3850403/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/2/0/d4c2bf8f0ab066f9e2254f3bfb90f280/2774130/399x289/2774130.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/2/0/d4c2bf8f0ab066f9e2254f3bfb90f280/2774130/399x289/2774130.jpeg" />
+      </media:content>
+    </item>
+    <item>
       <title>EU-leiders wachten daden Rusland af, sancties gaan door</title>
       <link>http://www.volkskrant.nl/dossier-europese-unie/eu-leiders-wachten-daden-rusland-af-sancties-gaan-door~a3850076/</link>
       <description>De ogen in Brussel waren vandaag gericht op vredesduiven Angela Merkel en Francois Hollande die met een akkoord terugkwamen uit Minsk. En op de plaaggeest van de EU, de Griekse premier Alexis Tsipras. Deze vragen beheersten de dag: hoe concreet zijn de resultaten van de Oekraïne-gesprekken in Minsk? Tot welke capriolen is de nieuwe Griekse regering in staat? De Volkskrant was bij de Europese top en deed live verslag. Lees de ontwikkelingen hieronder terug.</description>
@@ -135,16 +156,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-europese-unie/eu-leiders-wachten-daden-rusland-af-sancties-gaan-door~a3850076/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/6/1/49ae42d547f58de5029b7c763c9d1150/2774236/399x289/2774236.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/8/6/1/49ae42d547f58de5029b7c763c9d1150/2774236/399x289/2774236.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Rutte: garantie geen amnestie voor daders MH17 is 'keihard'</title>
-      <link>http://www.volkskrant.nl/binnenland/rutte-garantie-geen-amnestie-voor-daders-mh17-is-keihard~a3850403/</link>
-      <description>De garantie van de Oekraïense president Petro Porosjenko dat daders en verantwoordelijken voor het neerhalen van vlucht MH17 vervolging niet zullen ontlopen, is 'keihard'. Dat zei premier Mark Rutte vanavond in Brussel nadat hij de president eerder die dag daar had ontmoet.</description>
-      <pubDate>Thu, 12 Feb 2015 22:55:00 GMT</pubDate>
-      <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/rutte-garantie-geen-amnestie-voor-daders-mh17-is-keihard~a3850403/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/2/0/d4c2bf8f0ab066f9e2254f3bfb90f280/2774130/399x289/2774130.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/16/2/0/d4c2bf8f0ab066f9e2254f3bfb90f280/2774130/399x289/2774130.jpeg" />
       </media:content>
     </item>
     <item>
@@ -420,17 +431,6 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/binnenland/kabinet-draait-gaskraan-nogmaals-een-slag-verder-dicht~a3847811/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/6/11/4c0ed2263dc8cdbfcfbfba87e59b55b0/2765906/399x289/2765906.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/0/6/11/4c0ed2263dc8cdbfcfbfba87e59b55b0/2765906/399x289/2765906.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>#binnenskamers: de nieuwe beweging van Kuzu en Öztürk</title>
-      <link>http://www.volkskrant.nl/politiek/binnenskamers-de-nieuwe-beweging-van-kuzu-en-ozturk~a3847710/</link>
-      <description>#binnenskamers brengt u de laatste nieuwtjes, de nieuwste inzichten en scherpste observaties vanaf het Binnenhof, waargenomen en opgetekend door de verslaggevers van onze parlementaire redactie. Hier vindt u gedurende de dag de laatste updates.</description>
-      <pubDate>Mon, 09 Feb 2015 11:46:00 GMT</pubDate>
-      <author>Maartje Bakker</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/politiek/binnenskamers-de-nieuwe-beweging-van-kuzu-en-ozturk~a3847710/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/4/1/b153164310d5bcd824a8c190f85c5cde/2765581/399x289/2765581.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/17/4/1/b153164310d5bcd824a8c190f85c5cde/2765581/399x289/2765581.jpeg" />
       </media:content>
     </item>
   </channel>

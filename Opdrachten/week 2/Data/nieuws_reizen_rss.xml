@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>de Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Sun, 15 Feb 2015 23:26:16 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 23:26:16 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2015 10:27:30 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2015 10:27:30 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://www.volkskrant.nl//img/logos/rss_logo.png</url>
@@ -118,28 +118,6 @@
       </media:content>
     </item>
     <item>
-      <title>De spelende filosoof</title>
-      <link>http://www.volkskrant.nl/dossier-onze-gids-deze-week/de-spelende-filosoof~a3846094/</link>
-      <description>Behalve succesvol flankspeler bij FC Utrecht is Édouard Duplan ook getraind in wijsbegeerte. Daar zijn er binnen het Nederlandse profvoetbal niet zo gek veel van. Daarom vroegen we hem als onze gids.</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Rob van Scheers</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-onze-gids-deze-week/de-spelende-filosoof~a3846094/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/11/11/8c04c51d3079f9b1da2269d8512d156f/2760386/399x289/2760386.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/11/11/8c04c51d3079f9b1da2269d8512d156f/2760386/399x289/2760386.jpeg" />
-      </media:content>
-    </item>
-    <item>
-      <title>Manchester nieuwe stijl bruist van creativiteit</title>
-      <link>http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</link>
-      <description>Manchester is 'vieze industriestad' af. Oude gebouwen zijn opgeknapt en nieuwe architectuur laat de stad blinken. Bibliotheken, musea en culturele centra openen of heropenen. 'We hebben meer dan Manchester United en Manchester City.'</description>
-      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
-      <author>Eric Berg</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Ontdek de schoonheid in de lelijkheid van Keulen</title>
       <link>http://www.volkskrant.nl/reizen/ontdek-de-schoonheid-in-de-lelijkheid-van-keulen~a3845354/</link>
       <description>Wie kent er beter de weg, dan de mensen die er wonen? Hier de best places in town, volgens echte Keulenaars.</description>
@@ -148,6 +126,17 @@
       <guid isPermaLink="false">http://www.volkskrant.nl/reizen/ontdek-de-schoonheid-in-de-lelijkheid-van-keulen~a3845354/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/10/10/b9ca8c91bf59fb528d68600336488edd/2758345/399x289/2758345.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/1/10/10/b9ca8c91bf59fb528d68600336488edd/2758345/399x289/2758345.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>De spelende filosoof</title>
+      <link>http://www.volkskrant.nl/dossier-onze-gids-deze-week/de-spelende-filosoof~a3846094/</link>
+      <description>Behalve succesvol flankspeler bij FC Utrecht is Édouard Duplan ook getraind in wijsbegeerte. Daar zijn er binnen het Nederlandse profvoetbal niet zo gek veel van. Daarom vroegen we hem als onze gids.</description>
+      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Rob van Scheers</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/dossier-onze-gids-deze-week/de-spelende-filosoof~a3846094/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/11/11/8c04c51d3079f9b1da2269d8512d156f/2760386/399x289/2760386.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/11/11/8c04c51d3079f9b1da2269d8512d156f/2760386/399x289/2760386.jpeg" />
       </media:content>
     </item>
     <item>
@@ -160,6 +149,17 @@ Op internet adviseren reisbloggers die graag rekenen: kies altijd voor lokale va
       <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
       <author>Noël van Bemmel</author>
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-geheimtip/pinnen-in-het-buitenland-wat-moet-je-doen~a3845294/</guid>
+    </item>
+    <item>
+      <title>Manchester nieuwe stijl bruist van creativiteit</title>
+      <link>http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</link>
+      <description>Manchester is 'vieze industriestad' af. Oude gebouwen zijn opgeknapt en nieuwe architectuur laat de stad blinken. Bibliotheken, musea en culturele centra openen of heropenen. 'We hebben meer dan Manchester United en Manchester City.'</description>
+      <pubDate>Sat, 07 Feb 2015 01:00:00 GMT</pubDate>
+      <author>Eric Berg</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/reizen/manchester-nieuwe-stijl-bruist-van-creativiteit~a3845341/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/6/7/14/c34e042d5f83ae22fdc23c8297d770e3/2753429/399x289/2753429.jpeg" />
+      </media:content>
     </item>
     <item>
       <title>Spetteren op St. Maarten</title>
@@ -318,17 +318,6 @@ Op internet adviseren reisbloggers die graag rekenen: kies altijd voor lokale va
       </media:content>
     </item>
     <item>
-      <title>Budgetspa in Zwitsers Wham!-dorp</title>
-      <link>http://www.volkskrant.nl/buitenland/budgetspa-in-zwitsers-wham-dorp~a3834484/</link>
-      <description>Het Zwitserse bergdorp Saas-Fee - bekend van de videoclip van 'Last Christmas' - leeft op dankzij een nieuwe jeugdherberg met luxe spa.</description>
-      <pubDate>Sat, 24 Jan 2015 00:00:00 GMT</pubDate>
-      <author>Noël Van Bemmel</author>
-      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/budgetspa-in-zwitsers-wham-dorp~a3834484/</guid>
-      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/13/10/580da68ee2836f6fcbaa5364391411bb/2727595/399x289/2727595.jpeg">
-        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/13/10/580da68ee2836f6fcbaa5364391411bb/2727595/399x289/2727595.jpeg" />
-      </media:content>
-    </item>
-    <item>
       <title>Hier roken de vulkanen en dampt de lava</title>
       <link>http://www.volkskrant.nl/reizen/hier-roken-de-vulkanen-en-dampt-de-lava~a3834477/</link>
       <description>Op Big Island, het grootste eiland van Hawaii, besef je te lopen over een planeet die nog steeds gloeit. Niks bloemen en kokosnoten, hier roken de vulkanen en dampt de lava.</description>
@@ -348,6 +337,17 @@ Op internet adviseren reisbloggers die graag rekenen: kies altijd voor lokale va
       <guid isPermaLink="false">http://www.volkskrant.nl/dossier-eindelijk-weekend/dieren-zijn-de-representanten-van-deze-wereld~a3834244/</guid>
       <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/3/3/f3f593f6f872ca68fd0033afdf84cf83/2726718/399x289/2726718.jpeg">
         <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/9/3/3/f3f593f6f872ca68fd0033afdf84cf83/2726718/399x289/2726718.jpeg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Budgetspa in Zwitsers Wham!-dorp</title>
+      <link>http://www.volkskrant.nl/buitenland/budgetspa-in-zwitsers-wham-dorp~a3834484/</link>
+      <description>Het Zwitserse bergdorp Saas-Fee - bekend van de videoclip van 'Last Christmas' - leeft op dankzij een nieuwe jeugdherberg met luxe spa.</description>
+      <pubDate>Sat, 24 Jan 2015 00:00:00 GMT</pubDate>
+      <author>Noël Van Bemmel</author>
+      <guid isPermaLink="false">http://www.volkskrant.nl/buitenland/budgetspa-in-zwitsers-wham-dorp~a3834484/</guid>
+      <media:content type="image/jpeg" url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/13/10/580da68ee2836f6fcbaa5364391411bb/2727595/399x289/2727595.jpeg">
+        <media:thumbnail url="http://www.photo.volkskrant.nl/photoprovider/artikel/12/13/10/580da68ee2836f6fcbaa5364391411bb/2727595/399x289/2727595.jpeg" />
       </media:content>
     </item>
     <item>
